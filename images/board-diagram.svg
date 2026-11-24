@@ -1,0 +1,939 @@
+<svg width="288" height="400" viewBox="0 0 288 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="index.html / desktop 1440">
+<g id="main">
+<g id="section.hero">
+<g id="figure">
+<g id="img (board diagram)">
+<rect x="1" y="1" width="286" height="398" fill="#0E0F13"/>
+<rect x="1" y="1" width="286" height="398" stroke="#EEF1F6" stroke-width="2"/>
+<g id="board" clip-path="url(#clip0_0_1)">
+<g id="row" clip-path="url(#clip1_0_1)">
+<g id="Block">
+<rect x="4.25" y="4.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="4.25" y="4.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_2">
+<rect x="32.25" y="4.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="32.25" y="4.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_3">
+<rect x="60.25" y="4.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="60.25" y="4.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_4">
+<rect x="88.25" y="4.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="88.25" y="4.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_5">
+<rect x="116.25" y="4.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="116.25" y="4.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_6">
+<rect x="144.25" y="4.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="144.25" y="4.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_7">
+<rect x="172.25" y="4.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="172.25" y="4.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_8">
+<rect x="200.25" y="4.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="200.25" y="4.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_9">
+<rect x="228.25" y="4.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="228.25" y="4.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_10">
+<rect x="256.25" y="4.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="256.25" y="4.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+</g>
+<g id="row_2" clip-path="url(#clip2_0_1)">
+<g id="Block_11">
+<rect x="4.25" y="32.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="4.25" y="32.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_12">
+<rect x="32.25" y="32.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="32.25" y="32.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_13">
+<rect x="60.25" y="32.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="60.25" y="32.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_14">
+<rect x="88.25" y="32.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="88.25" y="32.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_15">
+<rect x="116" y="32" width="28" height="28" fill="#AE5BAD"/>
+<rect x="116.5" y="32.5" width="27" height="27" stroke="black" stroke-opacity="0.14"/>
+<rect id="bevel left" x="116" y="32" width="3" height="28" fill="white" fill-opacity="0.1"/>
+<rect id="bevel right" x="141" y="32" width="3" height="28" fill="black" fill-opacity="0.14"/>
+<rect id="bevel top" x="116" y="32" width="28" height="3" fill="white" fill-opacity="0.22"/>
+<rect id="bevel bottom" x="116" y="57" width="28" height="3" fill="black" fill-opacity="0.24"/>
+<rect id="inset" x="123" y="39" width="14" height="14" fill="black" fill-opacity="0.12"/>
+<rect id="inset top" x="123" y="39" width="14" height="2" fill="black" fill-opacity="0.16"/>
+<rect id="inset left" x="123" y="39" width="2" height="14" fill="black" fill-opacity="0.08"/>
+<rect id="inset bottom" x="123" y="51" width="14" height="2" fill="white" fill-opacity="0.16"/>
+<rect id="inset right" x="135" y="39" width="2" height="14" fill="white" fill-opacity="0.08"/>
+</g>
+<g id="Block_16">
+<rect x="144.25" y="32.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="144.25" y="32.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_17">
+<rect x="172.25" y="32.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="172.25" y="32.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_18">
+<rect x="200.25" y="32.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="200.25" y="32.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_19">
+<rect x="228.25" y="32.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="228.25" y="32.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_20">
+<rect x="256.25" y="32.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="256.25" y="32.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+</g>
+<g id="row_3" clip-path="url(#clip3_0_1)">
+<g id="Block_21">
+<rect x="4.25" y="60.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="4.25" y="60.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_22">
+<rect x="32.25" y="60.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="32.25" y="60.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_23">
+<rect x="60.25" y="60.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="60.25" y="60.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_24">
+<rect x="88" y="60" width="28" height="28" fill="#AE5BAD"/>
+<rect x="88.5" y="60.5" width="27" height="27" stroke="black" stroke-opacity="0.14"/>
+<rect id="bevel left_2" x="88" y="60" width="3" height="28" fill="white" fill-opacity="0.1"/>
+<rect id="bevel right_2" x="113" y="60" width="3" height="28" fill="black" fill-opacity="0.14"/>
+<rect id="bevel top_2" x="88" y="60" width="28" height="3" fill="white" fill-opacity="0.22"/>
+<rect id="bevel bottom_2" x="88" y="85" width="28" height="3" fill="black" fill-opacity="0.24"/>
+<rect id="inset_2" x="95" y="67" width="14" height="14" fill="black" fill-opacity="0.12"/>
+<rect id="inset top_2" x="95" y="67" width="14" height="2" fill="black" fill-opacity="0.16"/>
+<rect id="inset left_2" x="95" y="67" width="2" height="14" fill="black" fill-opacity="0.08"/>
+<rect id="inset bottom_2" x="95" y="79" width="14" height="2" fill="white" fill-opacity="0.16"/>
+<rect id="inset right_2" x="107" y="67" width="2" height="14" fill="white" fill-opacity="0.08"/>
+</g>
+<g id="Block_25">
+<rect x="116" y="60" width="28" height="28" fill="#AE5BAD"/>
+<rect x="116.5" y="60.5" width="27" height="27" stroke="black" stroke-opacity="0.14"/>
+<rect id="bevel left_3" x="116" y="60" width="3" height="28" fill="white" fill-opacity="0.1"/>
+<rect id="bevel right_3" x="141" y="60" width="3" height="28" fill="black" fill-opacity="0.14"/>
+<rect id="bevel top_3" x="116" y="60" width="28" height="3" fill="white" fill-opacity="0.22"/>
+<rect id="bevel bottom_3" x="116" y="85" width="28" height="3" fill="black" fill-opacity="0.24"/>
+<rect id="inset_3" x="123" y="67" width="14" height="14" fill="black" fill-opacity="0.12"/>
+<rect id="inset top_3" x="123" y="67" width="14" height="2" fill="black" fill-opacity="0.16"/>
+<rect id="inset left_3" x="123" y="67" width="2" height="14" fill="black" fill-opacity="0.08"/>
+<rect id="inset bottom_3" x="123" y="79" width="14" height="2" fill="white" fill-opacity="0.16"/>
+<rect id="inset right_3" x="135" y="67" width="2" height="14" fill="white" fill-opacity="0.08"/>
+</g>
+<g id="Block_26">
+<rect x="144" y="60" width="28" height="28" fill="#AE5BAD"/>
+<rect x="144.5" y="60.5" width="27" height="27" stroke="black" stroke-opacity="0.14"/>
+<rect id="bevel left_4" x="144" y="60" width="3" height="28" fill="white" fill-opacity="0.1"/>
+<rect id="bevel right_4" x="169" y="60" width="3" height="28" fill="black" fill-opacity="0.14"/>
+<rect id="bevel top_4" x="144" y="60" width="28" height="3" fill="white" fill-opacity="0.22"/>
+<rect id="bevel bottom_4" x="144" y="85" width="28" height="3" fill="black" fill-opacity="0.24"/>
+<rect id="inset_4" x="151" y="67" width="14" height="14" fill="black" fill-opacity="0.12"/>
+<rect id="inset top_4" x="151" y="67" width="14" height="2" fill="black" fill-opacity="0.16"/>
+<rect id="inset left_4" x="151" y="67" width="2" height="14" fill="black" fill-opacity="0.08"/>
+<rect id="inset bottom_4" x="151" y="79" width="14" height="2" fill="white" fill-opacity="0.16"/>
+<rect id="inset right_4" x="163" y="67" width="2" height="14" fill="white" fill-opacity="0.08"/>
+</g>
+<g id="Block_27">
+<rect x="172.25" y="60.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="172.25" y="60.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_28">
+<rect x="200.25" y="60.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="200.25" y="60.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_29">
+<rect x="228.25" y="60.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="228.25" y="60.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_30">
+<rect x="256.25" y="60.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="256.25" y="60.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+</g>
+<g id="row_4" clip-path="url(#clip4_0_1)">
+<g id="Block_31">
+<rect x="4.25" y="88.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="4.25" y="88.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_32">
+<rect x="32.25" y="88.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="32.25" y="88.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_33">
+<rect x="60.25" y="88.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="60.25" y="88.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_34">
+<rect x="88.25" y="88.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="88.25" y="88.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_35">
+<rect x="116.25" y="88.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="116.25" y="88.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_36">
+<rect x="144.25" y="88.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="144.25" y="88.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_37">
+<rect x="172.25" y="88.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="172.25" y="88.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_38">
+<rect x="200.25" y="88.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="200.25" y="88.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_39">
+<rect x="228.25" y="88.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="228.25" y="88.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_40">
+<rect x="256.25" y="88.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="256.25" y="88.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+</g>
+<g id="row_5" clip-path="url(#clip5_0_1)">
+<g id="Block_41">
+<rect x="4.25" y="116.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="4.25" y="116.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_42">
+<rect x="32.25" y="116.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="32.25" y="116.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_43">
+<rect x="60.25" y="116.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="60.25" y="116.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_44">
+<rect x="88.25" y="116.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="88.25" y="116.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_45">
+<rect x="116.25" y="116.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="116.25" y="116.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_46">
+<rect x="144.25" y="116.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="144.25" y="116.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_47">
+<rect x="172.25" y="116.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="172.25" y="116.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_48">
+<rect x="200.25" y="116.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="200.25" y="116.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_49">
+<rect x="228.25" y="116.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="228.25" y="116.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_50">
+<rect x="256.25" y="116.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="256.25" y="116.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+</g>
+<g id="row_6" clip-path="url(#clip6_0_1)">
+<g id="Block_51">
+<rect x="4.25" y="144.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="4.25" y="144.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_52">
+<rect x="32.25" y="144.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="32.25" y="144.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_53">
+<rect x="60.25" y="144.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="60.25" y="144.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_54">
+<rect x="88.25" y="144.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="88.25" y="144.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_55">
+<rect x="116.25" y="144.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="116.25" y="144.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_56">
+<rect x="144.25" y="144.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="144.25" y="144.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_57">
+<rect x="172.25" y="144.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="172.25" y="144.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_58">
+<rect x="200.25" y="144.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="200.25" y="144.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_59">
+<rect x="228.25" y="144.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="228.25" y="144.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_60">
+<rect x="256.25" y="144.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="256.25" y="144.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+</g>
+<g id="row_7" clip-path="url(#clip7_0_1)">
+<g id="Block_61">
+<rect x="4.25" y="172.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="4.25" y="172.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_62">
+<rect x="32.25" y="172.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="32.25" y="172.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_63">
+<rect x="60.25" y="172.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="60.25" y="172.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_64">
+<rect x="88.25" y="172.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="88.25" y="172.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_65">
+<rect x="116.25" y="172.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="116.25" y="172.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_66">
+<rect x="144.25" y="172.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="144.25" y="172.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_67">
+<rect x="172.25" y="172.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="172.25" y="172.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_68">
+<rect x="200.25" y="172.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="200.25" y="172.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_69">
+<rect x="228.25" y="172.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="228.25" y="172.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_70">
+<rect x="256.25" y="172.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="256.25" y="172.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+</g>
+<g id="row_8" clip-path="url(#clip8_0_1)">
+<g id="Block_71">
+<rect x="4.25" y="200.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="4.25" y="200.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_72">
+<rect x="32.25" y="200.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="32.25" y="200.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_73">
+<rect x="60.25" y="200.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="60.25" y="200.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_74">
+<rect x="88.25" y="200.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="88.25" y="200.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_75">
+<rect x="116.25" y="200.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="116.25" y="200.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_76">
+<rect x="144.25" y="200.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="144.25" y="200.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_77">
+<rect x="172.25" y="200.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="172.25" y="200.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_78">
+<rect x="200.25" y="200.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="200.25" y="200.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_79">
+<rect x="228.25" y="200.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="228.25" y="200.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_80">
+<rect x="256.25" y="200.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="256.25" y="200.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+</g>
+<g id="row_9" clip-path="url(#clip9_0_1)">
+<g id="Block_81">
+<rect x="4.25" y="228.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="4.25" y="228.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_82">
+<rect x="32.25" y="228.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="32.25" y="228.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_83">
+<rect x="60.25" y="228.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="60.25" y="228.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_84">
+<rect x="88.25" y="228.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="88.25" y="228.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_85">
+<rect x="116.25" y="228.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="116.25" y="228.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_86">
+<rect x="144.25" y="228.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="144.25" y="228.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_87">
+<rect x="172.25" y="228.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="172.25" y="228.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_88">
+<rect x="200.25" y="228.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="200.25" y="228.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_89">
+<rect x="228.25" y="228.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="228.25" y="228.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_90">
+<rect x="256.25" y="228.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="256.25" y="228.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+</g>
+<g id="row_10" clip-path="url(#clip10_0_1)">
+<g id="Block_91">
+<rect x="4.25" y="256.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="4.25" y="256.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_92">
+<rect x="32.25" y="256.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="32.25" y="256.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_93">
+<rect x="60" y="256" width="28" height="28" fill="#C9825A"/>
+<rect x="60.5" y="256.5" width="27" height="27" stroke="black" stroke-opacity="0.14"/>
+<rect id="bevel left_5" x="60" y="256" width="3" height="28" fill="white" fill-opacity="0.1"/>
+<rect id="bevel right_5" x="85" y="256" width="3" height="28" fill="black" fill-opacity="0.14"/>
+<rect id="bevel top_5" x="60" y="256" width="28" height="3" fill="white" fill-opacity="0.22"/>
+<rect id="bevel bottom_5" x="60" y="281" width="28" height="3" fill="black" fill-opacity="0.24"/>
+<rect id="inset_5" x="67" y="263" width="14" height="14" fill="black" fill-opacity="0.12"/>
+<rect id="inset top_5" x="67" y="263" width="14" height="2" fill="black" fill-opacity="0.16"/>
+<rect id="inset left_5" x="67" y="263" width="2" height="14" fill="black" fill-opacity="0.08"/>
+<rect id="inset bottom_5" x="67" y="275" width="14" height="2" fill="white" fill-opacity="0.16"/>
+<rect id="inset right_5" x="79" y="263" width="2" height="14" fill="white" fill-opacity="0.08"/>
+</g>
+<g id="Block_94">
+<rect x="88.25" y="256.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="88.25" y="256.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_95">
+<rect x="116.25" y="256.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="116.25" y="256.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_96">
+<rect x="144.25" y="256.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="144.25" y="256.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_97">
+<rect x="172" y="256" width="28" height="28" fill="#C75557"/>
+<rect x="172.5" y="256.5" width="27" height="27" stroke="black" stroke-opacity="0.14"/>
+<rect id="bevel left_6" x="172" y="256" width="3" height="28" fill="white" fill-opacity="0.1"/>
+<rect id="bevel right_6" x="197" y="256" width="3" height="28" fill="black" fill-opacity="0.14"/>
+<rect id="bevel top_6" x="172" y="256" width="28" height="3" fill="white" fill-opacity="0.22"/>
+<rect id="bevel bottom_6" x="172" y="281" width="28" height="3" fill="black" fill-opacity="0.24"/>
+<rect id="inset_6" x="179" y="263" width="14" height="14" fill="black" fill-opacity="0.12"/>
+<rect id="inset top_6" x="179" y="263" width="14" height="2" fill="black" fill-opacity="0.16"/>
+<rect id="inset left_6" x="179" y="263" width="2" height="14" fill="black" fill-opacity="0.08"/>
+<rect id="inset bottom_6" x="179" y="275" width="14" height="2" fill="white" fill-opacity="0.16"/>
+<rect id="inset right_6" x="191" y="263" width="2" height="14" fill="white" fill-opacity="0.08"/>
+</g>
+<g id="Block_98">
+<rect x="200" y="256" width="28" height="28" fill="#C75557"/>
+<rect x="200.5" y="256.5" width="27" height="27" stroke="black" stroke-opacity="0.14"/>
+<rect id="bevel left_7" x="200" y="256" width="3" height="28" fill="white" fill-opacity="0.1"/>
+<rect id="bevel right_7" x="225" y="256" width="3" height="28" fill="black" fill-opacity="0.14"/>
+<rect id="bevel top_7" x="200" y="256" width="28" height="3" fill="white" fill-opacity="0.22"/>
+<rect id="bevel bottom_7" x="200" y="281" width="28" height="3" fill="black" fill-opacity="0.24"/>
+<rect id="inset_7" x="207" y="263" width="14" height="14" fill="black" fill-opacity="0.12"/>
+<rect id="inset top_7" x="207" y="263" width="14" height="2" fill="black" fill-opacity="0.16"/>
+<rect id="inset left_7" x="207" y="263" width="2" height="14" fill="black" fill-opacity="0.08"/>
+<rect id="inset bottom_7" x="207" y="275" width="14" height="2" fill="white" fill-opacity="0.16"/>
+<rect id="inset right_7" x="219" y="263" width="2" height="14" fill="white" fill-opacity="0.08"/>
+</g>
+<g id="Block_99">
+<rect x="228.25" y="256.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="228.25" y="256.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_100">
+<rect x="256.25" y="256.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="256.25" y="256.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+</g>
+<g id="row_11" clip-path="url(#clip11_0_1)">
+<g id="Block_101">
+<rect x="4" y="284" width="28" height="28" fill="#C9825A"/>
+<rect x="4.5" y="284.5" width="27" height="27" stroke="black" stroke-opacity="0.14"/>
+<rect id="bevel left_8" x="4" y="284" width="3" height="28" fill="white" fill-opacity="0.1"/>
+<rect id="bevel right_8" x="29" y="284" width="3" height="28" fill="black" fill-opacity="0.14"/>
+<rect id="bevel top_8" x="4" y="284" width="28" height="3" fill="white" fill-opacity="0.22"/>
+<rect id="bevel bottom_8" x="4" y="309" width="28" height="3" fill="black" fill-opacity="0.24"/>
+<rect id="inset_8" x="11" y="291" width="14" height="14" fill="black" fill-opacity="0.12"/>
+<rect id="inset top_8" x="11" y="291" width="14" height="2" fill="black" fill-opacity="0.16"/>
+<rect id="inset left_8" x="11" y="291" width="2" height="14" fill="black" fill-opacity="0.08"/>
+<rect id="inset bottom_8" x="11" y="303" width="14" height="2" fill="white" fill-opacity="0.16"/>
+<rect id="inset right_8" x="23" y="291" width="2" height="14" fill="white" fill-opacity="0.08"/>
+</g>
+<g id="Block_102">
+<rect x="32" y="284" width="28" height="28" fill="#C9825A"/>
+<rect x="32.5" y="284.5" width="27" height="27" stroke="black" stroke-opacity="0.14"/>
+<rect id="bevel left_9" x="32" y="284" width="3" height="28" fill="white" fill-opacity="0.1"/>
+<rect id="bevel right_9" x="57" y="284" width="3" height="28" fill="black" fill-opacity="0.14"/>
+<rect id="bevel top_9" x="32" y="284" width="28" height="3" fill="white" fill-opacity="0.22"/>
+<rect id="bevel bottom_9" x="32" y="309" width="28" height="3" fill="black" fill-opacity="0.24"/>
+<rect id="inset_9" x="39" y="291" width="14" height="14" fill="black" fill-opacity="0.12"/>
+<rect id="inset top_9" x="39" y="291" width="14" height="2" fill="black" fill-opacity="0.16"/>
+<rect id="inset left_9" x="39" y="291" width="2" height="14" fill="black" fill-opacity="0.08"/>
+<rect id="inset bottom_9" x="39" y="303" width="14" height="2" fill="white" fill-opacity="0.16"/>
+<rect id="inset right_9" x="51" y="291" width="2" height="14" fill="white" fill-opacity="0.08"/>
+</g>
+<g id="Block_103">
+<rect x="60" y="284" width="28" height="28" fill="#C9825A"/>
+<rect x="60.5" y="284.5" width="27" height="27" stroke="black" stroke-opacity="0.14"/>
+<rect id="bevel left_10" x="60" y="284" width="3" height="28" fill="white" fill-opacity="0.1"/>
+<rect id="bevel right_10" x="85" y="284" width="3" height="28" fill="black" fill-opacity="0.14"/>
+<rect id="bevel top_10" x="60" y="284" width="28" height="3" fill="white" fill-opacity="0.22"/>
+<rect id="bevel bottom_10" x="60" y="309" width="28" height="3" fill="black" fill-opacity="0.24"/>
+<rect id="inset_10" x="67" y="291" width="14" height="14" fill="black" fill-opacity="0.12"/>
+<rect id="inset top_10" x="67" y="291" width="14" height="2" fill="black" fill-opacity="0.16"/>
+<rect id="inset left_10" x="67" y="291" width="2" height="14" fill="black" fill-opacity="0.08"/>
+<rect id="inset bottom_10" x="67" y="303" width="14" height="2" fill="white" fill-opacity="0.16"/>
+<rect id="inset right_10" x="79" y="291" width="2" height="14" fill="white" fill-opacity="0.08"/>
+</g>
+<g id="Block_104">
+<rect x="88.25" y="284.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="88.25" y="284.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+<g id="Block_105">
+<rect x="116" y="284" width="28" height="28" fill="#CDB85A"/>
+<rect x="116.5" y="284.5" width="27" height="27" stroke="black" stroke-opacity="0.14"/>
+<rect id="bevel left_11" x="116" y="284" width="3" height="28" fill="white" fill-opacity="0.1"/>
+<rect id="bevel right_11" x="141" y="284" width="3" height="28" fill="black" fill-opacity="0.14"/>
+<rect id="bevel top_11" x="116" y="284" width="28" height="3" fill="white" fill-opacity="0.22"/>
+<rect id="bevel bottom_11" x="116" y="309" width="28" height="3" fill="black" fill-opacity="0.24"/>
+<rect id="inset_11" x="123" y="291" width="14" height="14" fill="black" fill-opacity="0.12"/>
+<rect id="inset top_11" x="123" y="291" width="14" height="2" fill="black" fill-opacity="0.16"/>
+<rect id="inset left_11" x="123" y="291" width="2" height="14" fill="black" fill-opacity="0.08"/>
+<rect id="inset bottom_11" x="123" y="303" width="14" height="2" fill="white" fill-opacity="0.16"/>
+<rect id="inset right_11" x="135" y="291" width="2" height="14" fill="white" fill-opacity="0.08"/>
+</g>
+<g id="Block_106">
+<rect x="144" y="284" width="28" height="28" fill="#CDB85A"/>
+<rect x="144.5" y="284.5" width="27" height="27" stroke="black" stroke-opacity="0.14"/>
+<rect id="bevel left_12" x="144" y="284" width="3" height="28" fill="white" fill-opacity="0.1"/>
+<rect id="bevel right_12" x="169" y="284" width="3" height="28" fill="black" fill-opacity="0.14"/>
+<rect id="bevel top_12" x="144" y="284" width="28" height="3" fill="white" fill-opacity="0.22"/>
+<rect id="bevel bottom_12" x="144" y="309" width="28" height="3" fill="black" fill-opacity="0.24"/>
+<rect id="inset_12" x="151" y="291" width="14" height="14" fill="black" fill-opacity="0.12"/>
+<rect id="inset top_12" x="151" y="291" width="14" height="2" fill="black" fill-opacity="0.16"/>
+<rect id="inset left_12" x="151" y="291" width="2" height="14" fill="black" fill-opacity="0.08"/>
+<rect id="inset bottom_12" x="151" y="303" width="14" height="2" fill="white" fill-opacity="0.16"/>
+<rect id="inset right_12" x="163" y="291" width="2" height="14" fill="white" fill-opacity="0.08"/>
+</g>
+<g id="Block_107">
+<rect x="172" y="284" width="28" height="28" fill="#6254B8"/>
+<rect x="172.5" y="284.5" width="27" height="27" stroke="black" stroke-opacity="0.14"/>
+<rect id="bevel left_13" x="172" y="284" width="3" height="28" fill="white" fill-opacity="0.1"/>
+<rect id="bevel right_13" x="197" y="284" width="3" height="28" fill="black" fill-opacity="0.14"/>
+<rect id="bevel top_13" x="172" y="284" width="28" height="3" fill="white" fill-opacity="0.22"/>
+<rect id="bevel bottom_13" x="172" y="309" width="28" height="3" fill="black" fill-opacity="0.24"/>
+<rect id="inset_13" x="179" y="291" width="14" height="14" fill="black" fill-opacity="0.12"/>
+<rect id="inset top_13" x="179" y="291" width="14" height="2" fill="black" fill-opacity="0.16"/>
+<rect id="inset left_13" x="179" y="291" width="2" height="14" fill="black" fill-opacity="0.08"/>
+<rect id="inset bottom_13" x="179" y="303" width="14" height="2" fill="white" fill-opacity="0.16"/>
+<rect id="inset right_13" x="191" y="291" width="2" height="14" fill="white" fill-opacity="0.08"/>
+</g>
+<g id="Block_108">
+<rect x="200" y="284" width="28" height="28" fill="#C75557"/>
+<rect x="200.5" y="284.5" width="27" height="27" stroke="black" stroke-opacity="0.14"/>
+<rect id="bevel left_14" x="200" y="284" width="3" height="28" fill="white" fill-opacity="0.1"/>
+<rect id="bevel right_14" x="225" y="284" width="3" height="28" fill="black" fill-opacity="0.14"/>
+<rect id="bevel top_14" x="200" y="284" width="28" height="3" fill="white" fill-opacity="0.22"/>
+<rect id="bevel bottom_14" x="200" y="309" width="28" height="3" fill="black" fill-opacity="0.24"/>
+<rect id="inset_14" x="207" y="291" width="14" height="14" fill="black" fill-opacity="0.12"/>
+<rect id="inset top_14" x="207" y="291" width="14" height="2" fill="black" fill-opacity="0.16"/>
+<rect id="inset left_14" x="207" y="291" width="2" height="14" fill="black" fill-opacity="0.08"/>
+<rect id="inset bottom_14" x="207" y="303" width="14" height="2" fill="white" fill-opacity="0.16"/>
+<rect id="inset right_14" x="219" y="291" width="2" height="14" fill="white" fill-opacity="0.08"/>
+</g>
+<g id="Block_109">
+<rect x="228" y="284" width="28" height="28" fill="#C75557"/>
+<rect x="228.5" y="284.5" width="27" height="27" stroke="black" stroke-opacity="0.14"/>
+<rect id="bevel left_15" x="228" y="284" width="3" height="28" fill="white" fill-opacity="0.1"/>
+<rect id="bevel right_15" x="253" y="284" width="3" height="28" fill="black" fill-opacity="0.14"/>
+<rect id="bevel top_15" x="228" y="284" width="28" height="3" fill="white" fill-opacity="0.22"/>
+<rect id="bevel bottom_15" x="228" y="309" width="28" height="3" fill="black" fill-opacity="0.24"/>
+<rect id="inset_15" x="235" y="291" width="14" height="14" fill="black" fill-opacity="0.12"/>
+<rect id="inset top_15" x="235" y="291" width="14" height="2" fill="black" fill-opacity="0.16"/>
+<rect id="inset left_15" x="235" y="291" width="2" height="14" fill="black" fill-opacity="0.08"/>
+<rect id="inset bottom_15" x="235" y="303" width="14" height="2" fill="white" fill-opacity="0.16"/>
+<rect id="inset right_15" x="247" y="291" width="2" height="14" fill="white" fill-opacity="0.08"/>
+</g>
+<g id="Block_110">
+<rect x="256.25" y="284.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="256.25" y="284.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+</g>
+<g id="row_12" clip-path="url(#clip12_0_1)">
+<g id="Block_111">
+<rect x="4" y="312" width="28" height="28" fill="#66C7A0"/>
+<rect x="4.5" y="312.5" width="27" height="27" stroke="black" stroke-opacity="0.14"/>
+<rect id="bevel left_16" x="4" y="312" width="3" height="28" fill="white" fill-opacity="0.1"/>
+<rect id="bevel right_16" x="29" y="312" width="3" height="28" fill="black" fill-opacity="0.14"/>
+<rect id="bevel top_16" x="4" y="312" width="28" height="3" fill="white" fill-opacity="0.22"/>
+<rect id="bevel bottom_16" x="4" y="337" width="28" height="3" fill="black" fill-opacity="0.24"/>
+<rect id="inset_16" x="11" y="319" width="14" height="14" fill="black" fill-opacity="0.12"/>
+<rect id="inset top_16" x="11" y="319" width="14" height="2" fill="black" fill-opacity="0.16"/>
+<rect id="inset left_16" x="11" y="319" width="2" height="14" fill="black" fill-opacity="0.08"/>
+<rect id="inset bottom_16" x="11" y="331" width="14" height="2" fill="white" fill-opacity="0.16"/>
+<rect id="inset right_16" x="23" y="319" width="2" height="14" fill="white" fill-opacity="0.08"/>
+</g>
+<g id="Block_112">
+<rect x="32" y="312" width="28" height="28" fill="#66C7A0"/>
+<rect x="32.5" y="312.5" width="27" height="27" stroke="black" stroke-opacity="0.14"/>
+<rect id="bevel left_17" x="32" y="312" width="3" height="28" fill="white" fill-opacity="0.1"/>
+<rect id="bevel right_17" x="57" y="312" width="3" height="28" fill="black" fill-opacity="0.14"/>
+<rect id="bevel top_17" x="32" y="312" width="28" height="3" fill="white" fill-opacity="0.22"/>
+<rect id="bevel bottom_17" x="32" y="337" width="28" height="3" fill="black" fill-opacity="0.24"/>
+<rect id="inset_17" x="39" y="319" width="14" height="14" fill="black" fill-opacity="0.12"/>
+<rect id="inset top_17" x="39" y="319" width="14" height="2" fill="black" fill-opacity="0.16"/>
+<rect id="inset left_17" x="39" y="319" width="2" height="14" fill="black" fill-opacity="0.08"/>
+<rect id="inset bottom_17" x="39" y="331" width="14" height="2" fill="white" fill-opacity="0.16"/>
+<rect id="inset right_17" x="51" y="319" width="2" height="14" fill="white" fill-opacity="0.08"/>
+</g>
+<g id="Block_113">
+<rect x="60" y="312" width="28" height="28" fill="#66C7A0"/>
+<rect x="60.5" y="312.5" width="27" height="27" stroke="black" stroke-opacity="0.14"/>
+<rect id="bevel left_18" x="60" y="312" width="3" height="28" fill="white" fill-opacity="0.1"/>
+<rect id="bevel right_18" x="85" y="312" width="3" height="28" fill="black" fill-opacity="0.14"/>
+<rect id="bevel top_18" x="60" y="312" width="28" height="3" fill="white" fill-opacity="0.22"/>
+<rect id="bevel bottom_18" x="60" y="337" width="28" height="3" fill="black" fill-opacity="0.24"/>
+<rect id="inset_18" x="67" y="319" width="14" height="14" fill="black" fill-opacity="0.12"/>
+<rect id="inset top_18" x="67" y="319" width="14" height="2" fill="black" fill-opacity="0.16"/>
+<rect id="inset left_18" x="67" y="319" width="2" height="14" fill="black" fill-opacity="0.08"/>
+<rect id="inset bottom_18" x="67" y="331" width="14" height="2" fill="white" fill-opacity="0.16"/>
+<rect id="inset right_18" x="79" y="319" width="2" height="14" fill="white" fill-opacity="0.08"/>
+</g>
+<g id="Block_114">
+<rect x="88" y="312" width="28" height="28" fill="#66C7A0"/>
+<rect x="88.5" y="312.5" width="27" height="27" stroke="black" stroke-opacity="0.14"/>
+<rect id="bevel left_19" x="88" y="312" width="3" height="28" fill="white" fill-opacity="0.1"/>
+<rect id="bevel right_19" x="113" y="312" width="3" height="28" fill="black" fill-opacity="0.14"/>
+<rect id="bevel top_19" x="88" y="312" width="28" height="3" fill="white" fill-opacity="0.22"/>
+<rect id="bevel bottom_19" x="88" y="337" width="28" height="3" fill="black" fill-opacity="0.24"/>
+<rect id="inset_19" x="95" y="319" width="14" height="14" fill="black" fill-opacity="0.12"/>
+<rect id="inset top_19" x="95" y="319" width="14" height="2" fill="black" fill-opacity="0.16"/>
+<rect id="inset left_19" x="95" y="319" width="2" height="14" fill="black" fill-opacity="0.08"/>
+<rect id="inset bottom_19" x="95" y="331" width="14" height="2" fill="white" fill-opacity="0.16"/>
+<rect id="inset right_19" x="107" y="319" width="2" height="14" fill="white" fill-opacity="0.08"/>
+</g>
+<g id="Block_115">
+<rect x="116" y="312" width="28" height="28" fill="#CDB85A"/>
+<rect x="116.5" y="312.5" width="27" height="27" stroke="black" stroke-opacity="0.14"/>
+<rect id="bevel left_20" x="116" y="312" width="3" height="28" fill="white" fill-opacity="0.1"/>
+<rect id="bevel right_20" x="141" y="312" width="3" height="28" fill="black" fill-opacity="0.14"/>
+<rect id="bevel top_20" x="116" y="312" width="28" height="3" fill="white" fill-opacity="0.22"/>
+<rect id="bevel bottom_20" x="116" y="337" width="28" height="3" fill="black" fill-opacity="0.24"/>
+<rect id="inset_20" x="123" y="319" width="14" height="14" fill="black" fill-opacity="0.12"/>
+<rect id="inset top_20" x="123" y="319" width="14" height="2" fill="black" fill-opacity="0.16"/>
+<rect id="inset left_20" x="123" y="319" width="2" height="14" fill="black" fill-opacity="0.08"/>
+<rect id="inset bottom_20" x="123" y="331" width="14" height="2" fill="white" fill-opacity="0.16"/>
+<rect id="inset right_20" x="135" y="319" width="2" height="14" fill="white" fill-opacity="0.08"/>
+</g>
+<g id="Block_116">
+<rect x="144" y="312" width="28" height="28" fill="#CDB85A"/>
+<rect x="144.5" y="312.5" width="27" height="27" stroke="black" stroke-opacity="0.14"/>
+<rect id="bevel left_21" x="144" y="312" width="3" height="28" fill="white" fill-opacity="0.1"/>
+<rect id="bevel right_21" x="169" y="312" width="3" height="28" fill="black" fill-opacity="0.14"/>
+<rect id="bevel top_21" x="144" y="312" width="28" height="3" fill="white" fill-opacity="0.22"/>
+<rect id="bevel bottom_21" x="144" y="337" width="28" height="3" fill="black" fill-opacity="0.24"/>
+<rect id="inset_21" x="151" y="319" width="14" height="14" fill="black" fill-opacity="0.12"/>
+<rect id="inset top_21" x="151" y="319" width="14" height="2" fill="black" fill-opacity="0.16"/>
+<rect id="inset left_21" x="151" y="319" width="2" height="14" fill="black" fill-opacity="0.08"/>
+<rect id="inset bottom_21" x="151" y="331" width="14" height="2" fill="white" fill-opacity="0.16"/>
+<rect id="inset right_21" x="163" y="319" width="2" height="14" fill="white" fill-opacity="0.08"/>
+</g>
+<g id="Block_117">
+<rect x="172" y="312" width="28" height="28" fill="#6254B8"/>
+<rect x="172.5" y="312.5" width="27" height="27" stroke="black" stroke-opacity="0.14"/>
+<rect id="bevel left_22" x="172" y="312" width="3" height="28" fill="white" fill-opacity="0.1"/>
+<rect id="bevel right_22" x="197" y="312" width="3" height="28" fill="black" fill-opacity="0.14"/>
+<rect id="bevel top_22" x="172" y="312" width="28" height="3" fill="white" fill-opacity="0.22"/>
+<rect id="bevel bottom_22" x="172" y="337" width="28" height="3" fill="black" fill-opacity="0.24"/>
+<rect id="inset_22" x="179" y="319" width="14" height="14" fill="black" fill-opacity="0.12"/>
+<rect id="inset top_22" x="179" y="319" width="14" height="2" fill="black" fill-opacity="0.16"/>
+<rect id="inset left_22" x="179" y="319" width="2" height="14" fill="black" fill-opacity="0.08"/>
+<rect id="inset bottom_22" x="179" y="331" width="14" height="2" fill="white" fill-opacity="0.16"/>
+<rect id="inset right_22" x="191" y="319" width="2" height="14" fill="white" fill-opacity="0.08"/>
+</g>
+<g id="Block_118">
+<rect x="200" y="312" width="28" height="28" fill="#6254B8"/>
+<rect x="200.5" y="312.5" width="27" height="27" stroke="black" stroke-opacity="0.14"/>
+<rect id="bevel left_23" x="200" y="312" width="3" height="28" fill="white" fill-opacity="0.1"/>
+<rect id="bevel right_23" x="225" y="312" width="3" height="28" fill="black" fill-opacity="0.14"/>
+<rect id="bevel top_23" x="200" y="312" width="28" height="3" fill="white" fill-opacity="0.22"/>
+<rect id="bevel bottom_23" x="200" y="337" width="28" height="3" fill="black" fill-opacity="0.24"/>
+<rect id="inset_23" x="207" y="319" width="14" height="14" fill="black" fill-opacity="0.12"/>
+<rect id="inset top_23" x="207" y="319" width="14" height="2" fill="black" fill-opacity="0.16"/>
+<rect id="inset left_23" x="207" y="319" width="2" height="14" fill="black" fill-opacity="0.08"/>
+<rect id="inset bottom_23" x="207" y="331" width="14" height="2" fill="white" fill-opacity="0.16"/>
+<rect id="inset right_23" x="219" y="319" width="2" height="14" fill="white" fill-opacity="0.08"/>
+</g>
+<g id="Block_119">
+<rect x="228" y="312" width="28" height="28" fill="#6254B8"/>
+<rect x="228.5" y="312.5" width="27" height="27" stroke="black" stroke-opacity="0.14"/>
+<rect id="bevel left_24" x="228" y="312" width="3" height="28" fill="white" fill-opacity="0.1"/>
+<rect id="bevel right_24" x="253" y="312" width="3" height="28" fill="black" fill-opacity="0.14"/>
+<rect id="bevel top_24" x="228" y="312" width="28" height="3" fill="white" fill-opacity="0.22"/>
+<rect id="bevel bottom_24" x="228" y="337" width="28" height="3" fill="black" fill-opacity="0.24"/>
+<rect id="inset_24" x="235" y="319" width="14" height="14" fill="black" fill-opacity="0.12"/>
+<rect id="inset top_24" x="235" y="319" width="14" height="2" fill="black" fill-opacity="0.16"/>
+<rect id="inset left_24" x="235" y="319" width="2" height="14" fill="black" fill-opacity="0.08"/>
+<rect id="inset bottom_24" x="235" y="331" width="14" height="2" fill="white" fill-opacity="0.16"/>
+<rect id="inset right_24" x="247" y="319" width="2" height="14" fill="white" fill-opacity="0.08"/>
+</g>
+<g id="Block_120">
+<rect x="256.25" y="312.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="256.25" y="312.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+</g>
+<g id="row_13" clip-path="url(#clip13_0_1)">
+<g id="Block_121">
+<rect x="4" y="340" width="28" height="28" fill="#6B6F7A"/>
+<rect x="4.5" y="340.5" width="27" height="27" stroke="black" stroke-opacity="0.14"/>
+<rect id="bevel left_25" x="4" y="340" width="3" height="28" fill="white" fill-opacity="0.1"/>
+<rect id="bevel right_25" x="29" y="340" width="3" height="28" fill="black" fill-opacity="0.14"/>
+<rect id="bevel top_25" x="4" y="340" width="28" height="3" fill="white" fill-opacity="0.22"/>
+<rect id="bevel bottom_25" x="4" y="365" width="28" height="3" fill="black" fill-opacity="0.24"/>
+</g>
+<g id="Block_122">
+<rect x="32" y="340" width="28" height="28" fill="#6B6F7A"/>
+<rect x="32.5" y="340.5" width="27" height="27" stroke="black" stroke-opacity="0.14"/>
+<rect id="bevel left_26" x="32" y="340" width="3" height="28" fill="white" fill-opacity="0.1"/>
+<rect id="bevel right_26" x="57" y="340" width="3" height="28" fill="black" fill-opacity="0.14"/>
+<rect id="bevel top_26" x="32" y="340" width="28" height="3" fill="white" fill-opacity="0.22"/>
+<rect id="bevel bottom_26" x="32" y="365" width="28" height="3" fill="black" fill-opacity="0.24"/>
+</g>
+<g id="Block_123">
+<rect x="60" y="340" width="28" height="28" fill="#6B6F7A"/>
+<rect x="60.5" y="340.5" width="27" height="27" stroke="black" stroke-opacity="0.14"/>
+<rect id="bevel left_27" x="60" y="340" width="3" height="28" fill="white" fill-opacity="0.1"/>
+<rect id="bevel right_27" x="85" y="340" width="3" height="28" fill="black" fill-opacity="0.14"/>
+<rect id="bevel top_27" x="60" y="340" width="28" height="3" fill="white" fill-opacity="0.22"/>
+<rect id="bevel bottom_27" x="60" y="365" width="28" height="3" fill="black" fill-opacity="0.24"/>
+</g>
+<g id="Block_124">
+<rect x="88" y="340" width="28" height="28" fill="#6B6F7A"/>
+<rect x="88.5" y="340.5" width="27" height="27" stroke="black" stroke-opacity="0.14"/>
+<rect id="bevel left_28" x="88" y="340" width="3" height="28" fill="white" fill-opacity="0.1"/>
+<rect id="bevel right_28" x="113" y="340" width="3" height="28" fill="black" fill-opacity="0.14"/>
+<rect id="bevel top_28" x="88" y="340" width="28" height="3" fill="white" fill-opacity="0.22"/>
+<rect id="bevel bottom_28" x="88" y="365" width="28" height="3" fill="black" fill-opacity="0.24"/>
+</g>
+<g id="Block_125">
+<rect x="116" y="340" width="28" height="28" fill="#6B6F7A"/>
+<rect x="116.5" y="340.5" width="27" height="27" stroke="black" stroke-opacity="0.14"/>
+<rect id="bevel left_29" x="116" y="340" width="3" height="28" fill="white" fill-opacity="0.1"/>
+<rect id="bevel right_29" x="141" y="340" width="3" height="28" fill="black" fill-opacity="0.14"/>
+<rect id="bevel top_29" x="116" y="340" width="28" height="3" fill="white" fill-opacity="0.22"/>
+<rect id="bevel bottom_29" x="116" y="365" width="28" height="3" fill="black" fill-opacity="0.24"/>
+</g>
+<g id="Block_126">
+<rect x="144" y="340" width="28" height="28" fill="#6B6F7A"/>
+<rect x="144.5" y="340.5" width="27" height="27" stroke="black" stroke-opacity="0.14"/>
+<rect id="bevel left_30" x="144" y="340" width="3" height="28" fill="white" fill-opacity="0.1"/>
+<rect id="bevel right_30" x="169" y="340" width="3" height="28" fill="black" fill-opacity="0.14"/>
+<rect id="bevel top_30" x="144" y="340" width="28" height="3" fill="white" fill-opacity="0.22"/>
+<rect id="bevel bottom_30" x="144" y="365" width="28" height="3" fill="black" fill-opacity="0.24"/>
+</g>
+<g id="Block_127">
+<rect x="172" y="340" width="28" height="28" fill="#6B6F7A"/>
+<rect x="172.5" y="340.5" width="27" height="27" stroke="black" stroke-opacity="0.14"/>
+<rect id="bevel left_31" x="172" y="340" width="3" height="28" fill="white" fill-opacity="0.1"/>
+<rect id="bevel right_31" x="197" y="340" width="3" height="28" fill="black" fill-opacity="0.14"/>
+<rect id="bevel top_31" x="172" y="340" width="28" height="3" fill="white" fill-opacity="0.22"/>
+<rect id="bevel bottom_31" x="172" y="365" width="28" height="3" fill="black" fill-opacity="0.24"/>
+</g>
+<g id="Block_128">
+<rect x="200" y="340" width="28" height="28" fill="#6B6F7A"/>
+<rect x="200.5" y="340.5" width="27" height="27" stroke="black" stroke-opacity="0.14"/>
+<rect id="bevel left_32" x="200" y="340" width="3" height="28" fill="white" fill-opacity="0.1"/>
+<rect id="bevel right_32" x="225" y="340" width="3" height="28" fill="black" fill-opacity="0.14"/>
+<rect id="bevel top_32" x="200" y="340" width="28" height="3" fill="white" fill-opacity="0.22"/>
+<rect id="bevel bottom_32" x="200" y="365" width="28" height="3" fill="black" fill-opacity="0.24"/>
+</g>
+<g id="Block_129">
+<rect x="228" y="340" width="28" height="28" fill="#6B6F7A"/>
+<rect x="228.5" y="340.5" width="27" height="27" stroke="black" stroke-opacity="0.14"/>
+<rect id="bevel left_33" x="228" y="340" width="3" height="28" fill="white" fill-opacity="0.1"/>
+<rect id="bevel right_33" x="253" y="340" width="3" height="28" fill="black" fill-opacity="0.14"/>
+<rect id="bevel top_33" x="228" y="340" width="28" height="3" fill="white" fill-opacity="0.22"/>
+<rect id="bevel bottom_33" x="228" y="365" width="28" height="3" fill="black" fill-opacity="0.24"/>
+</g>
+<g id="Block_130">
+<rect x="256.25" y="340.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="256.25" y="340.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+</g>
+<g id="row_14" clip-path="url(#clip14_0_1)">
+<g id="Block_131">
+<rect x="4" y="368" width="28" height="28" fill="#6B6F7A"/>
+<rect x="4.5" y="368.5" width="27" height="27" stroke="black" stroke-opacity="0.14"/>
+<rect id="bevel left_34" x="4" y="368" width="3" height="28" fill="white" fill-opacity="0.1"/>
+<rect id="bevel right_34" x="29" y="368" width="3" height="28" fill="black" fill-opacity="0.14"/>
+<rect id="bevel top_34" x="4" y="368" width="28" height="3" fill="white" fill-opacity="0.22"/>
+<rect id="bevel bottom_34" x="4" y="393" width="28" height="3" fill="black" fill-opacity="0.24"/>
+</g>
+<g id="Block_132">
+<rect x="32" y="368" width="28" height="28" fill="#6B6F7A"/>
+<rect x="32.5" y="368.5" width="27" height="27" stroke="black" stroke-opacity="0.14"/>
+<rect id="bevel left_35" x="32" y="368" width="3" height="28" fill="white" fill-opacity="0.1"/>
+<rect id="bevel right_35" x="57" y="368" width="3" height="28" fill="black" fill-opacity="0.14"/>
+<rect id="bevel top_35" x="32" y="368" width="28" height="3" fill="white" fill-opacity="0.22"/>
+<rect id="bevel bottom_35" x="32" y="393" width="28" height="3" fill="black" fill-opacity="0.24"/>
+</g>
+<g id="Block_133">
+<rect x="60" y="368" width="28" height="28" fill="#6B6F7A"/>
+<rect x="60.5" y="368.5" width="27" height="27" stroke="black" stroke-opacity="0.14"/>
+<rect id="bevel left_36" x="60" y="368" width="3" height="28" fill="white" fill-opacity="0.1"/>
+<rect id="bevel right_36" x="85" y="368" width="3" height="28" fill="black" fill-opacity="0.14"/>
+<rect id="bevel top_36" x="60" y="368" width="28" height="3" fill="white" fill-opacity="0.22"/>
+<rect id="bevel bottom_36" x="60" y="393" width="28" height="3" fill="black" fill-opacity="0.24"/>
+</g>
+<g id="Block_134">
+<rect x="88" y="368" width="28" height="28" fill="#6B6F7A"/>
+<rect x="88.5" y="368.5" width="27" height="27" stroke="black" stroke-opacity="0.14"/>
+<rect id="bevel left_37" x="88" y="368" width="3" height="28" fill="white" fill-opacity="0.1"/>
+<rect id="bevel right_37" x="113" y="368" width="3" height="28" fill="black" fill-opacity="0.14"/>
+<rect id="bevel top_37" x="88" y="368" width="28" height="3" fill="white" fill-opacity="0.22"/>
+<rect id="bevel bottom_37" x="88" y="393" width="28" height="3" fill="black" fill-opacity="0.24"/>
+</g>
+<g id="Block_135">
+<rect x="116" y="368" width="28" height="28" fill="#6B6F7A"/>
+<rect x="116.5" y="368.5" width="27" height="27" stroke="black" stroke-opacity="0.14"/>
+<rect id="bevel left_38" x="116" y="368" width="3" height="28" fill="white" fill-opacity="0.1"/>
+<rect id="bevel right_38" x="141" y="368" width="3" height="28" fill="black" fill-opacity="0.14"/>
+<rect id="bevel top_38" x="116" y="368" width="28" height="3" fill="white" fill-opacity="0.22"/>
+<rect id="bevel bottom_38" x="116" y="393" width="28" height="3" fill="black" fill-opacity="0.24"/>
+</g>
+<g id="Block_136">
+<rect x="144" y="368" width="28" height="28" fill="#6B6F7A"/>
+<rect x="144.5" y="368.5" width="27" height="27" stroke="black" stroke-opacity="0.14"/>
+<rect id="bevel left_39" x="144" y="368" width="3" height="28" fill="white" fill-opacity="0.1"/>
+<rect id="bevel right_39" x="169" y="368" width="3" height="28" fill="black" fill-opacity="0.14"/>
+<rect id="bevel top_39" x="144" y="368" width="28" height="3" fill="white" fill-opacity="0.22"/>
+<rect id="bevel bottom_39" x="144" y="393" width="28" height="3" fill="black" fill-opacity="0.24"/>
+</g>
+<g id="Block_137">
+<rect x="172" y="368" width="28" height="28" fill="#6B6F7A"/>
+<rect x="172.5" y="368.5" width="27" height="27" stroke="black" stroke-opacity="0.14"/>
+<rect id="bevel left_40" x="172" y="368" width="3" height="28" fill="white" fill-opacity="0.1"/>
+<rect id="bevel right_40" x="197" y="368" width="3" height="28" fill="black" fill-opacity="0.14"/>
+<rect id="bevel top_40" x="172" y="368" width="28" height="3" fill="white" fill-opacity="0.22"/>
+<rect id="bevel bottom_40" x="172" y="393" width="28" height="3" fill="black" fill-opacity="0.24"/>
+</g>
+<g id="Block_138">
+<rect x="200" y="368" width="28" height="28" fill="#6B6F7A"/>
+<rect x="200.5" y="368.5" width="27" height="27" stroke="black" stroke-opacity="0.14"/>
+<rect id="bevel left_41" x="200" y="368" width="3" height="28" fill="white" fill-opacity="0.1"/>
+<rect id="bevel right_41" x="225" y="368" width="3" height="28" fill="black" fill-opacity="0.14"/>
+<rect id="bevel top_41" x="200" y="368" width="28" height="3" fill="white" fill-opacity="0.22"/>
+<rect id="bevel bottom_41" x="200" y="393" width="28" height="3" fill="black" fill-opacity="0.24"/>
+</g>
+<g id="Block_139">
+<rect x="228" y="368" width="28" height="28" fill="#6B6F7A"/>
+<rect x="228.5" y="368.5" width="27" height="27" stroke="black" stroke-opacity="0.14"/>
+<rect id="bevel left_42" x="228" y="368" width="3" height="28" fill="white" fill-opacity="0.1"/>
+<rect id="bevel right_42" x="253" y="368" width="3" height="28" fill="black" fill-opacity="0.14"/>
+<rect id="bevel top_42" x="228" y="368" width="28" height="3" fill="white" fill-opacity="0.22"/>
+<rect id="bevel bottom_42" x="228" y="393" width="28" height="3" fill="black" fill-opacity="0.24"/>
+</g>
+<g id="Block_140">
+<rect x="256.25" y="368.25" width="27.5" height="27.5" fill="#0E0F13"/>
+<rect x="256.25" y="368.25" width="27.5" height="27.5" stroke="#2A3142" stroke-width="0.5"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="280" height="392" fill="white" transform="translate(4 4)"/>
+</clipPath>
+<clipPath id="clip1_0_1">
+<rect width="280" height="28" fill="white" transform="translate(4 4)"/>
+</clipPath>
+<clipPath id="clip2_0_1">
+<rect width="280" height="28" fill="white" transform="translate(4 32)"/>
+</clipPath>
+<clipPath id="clip3_0_1">
+<rect width="280" height="28" fill="white" transform="translate(4 60)"/>
+</clipPath>
+<clipPath id="clip4_0_1">
+<rect width="280" height="28" fill="white" transform="translate(4 88)"/>
+</clipPath>
+<clipPath id="clip5_0_1">
+<rect width="280" height="28" fill="white" transform="translate(4 116)"/>
+</clipPath>
+<clipPath id="clip6_0_1">
+<rect width="280" height="28" fill="white" transform="translate(4 144)"/>
+</clipPath>
+<clipPath id="clip7_0_1">
+<rect width="280" height="28" fill="white" transform="translate(4 172)"/>
+</clipPath>
+<clipPath id="clip8_0_1">
+<rect width="280" height="28" fill="white" transform="translate(4 200)"/>
+</clipPath>
+<clipPath id="clip9_0_1">
+<rect width="280" height="28" fill="white" transform="translate(4 228)"/>
+</clipPath>
+<clipPath id="clip10_0_1">
+<rect width="280" height="28" fill="white" transform="translate(4 256)"/>
+</clipPath>
+<clipPath id="clip11_0_1">
+<rect width="280" height="28" fill="white" transform="translate(4 284)"/>
+</clipPath>
+<clipPath id="clip12_0_1">
+<rect width="280" height="28" fill="white" transform="translate(4 312)"/>
+</clipPath>
+<clipPath id="clip13_0_1">
+<rect width="280" height="28" fill="white" transform="translate(4 340)"/>
+</clipPath>
+<clipPath id="clip14_0_1">
+<rect width="280" height="28" fill="white" transform="translate(4 368)"/>
+</clipPath>
+</defs>
+</svg>

@@ -282,6 +282,12 @@ section {
 
 .hero-image {
     flex: 1 1 320px;
+    text-align: center;
+}
+
+.hero-image img {
+    display: block;
+    margin: 0 auto;
 }
 
 .pieces {
@@ -298,6 +304,15 @@ section {
     border-radius: var(--radius-md);
     background-color: var(--surface);
     text-align: center;
+}
+
+.pieces img {
+    display: block;
+    width: 100%;
+    max-width: 108px;
+    height: 72px;
+    margin: 0 auto;
+    object-fit: contain;
 }
 
 .pieces figcaption {
