@@ -1,3 +1,499 @@
+@import url("https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;600;700&family=Inter:wght@400;600&display=swap");
+
+/* Colours, fonts and spacing from the Figma file. Use these on every page. */
+:root {
+    --bg: #0b0d12;
+    --surface: #141821;
+    --surface-raised: #1c2230;
+    --border: #2a3142;
+    --border-strong: #46506a;
+    --text: #eef1f6;
+    --text-muted: #a3acbd;
+    --accent: #2fd3f0;
+    --accent-hover: #7be6f8;
+    --on-accent: #06202a;
+
+    --piece-i: #2fd3f0;
+    --piece-o: #f5d33a;
+    --piece-t: #b36bf2;
+    --piece-s: #4fd66a;
+    --piece-z: #f0505a;
+    --piece-j: #4c7df0;
+    --piece-l: #f59a3a;
+
+    --font-display: "Chakra Petch", "Courier New", Courier, monospace;
+    --font-body: "Inter", Arial, sans-serif;
+
+    --space-1: 4px;
+    --space-2: 8px;
+    --space-3: 12px;
+    --space-4: 16px;
+    --space-6: 24px;
+    --space-8: 32px;
+    --space-12: 48px;
+    --space-16: 64px;
+    --space-24: 96px;
+
+    --radius-sm: 4px;
+    --radius-md: 8px;
+    --page-width: 1200px;
+}
+
+/* Base */
+
+* {
+    box-sizing: border-box;
+}
+
 html {
-    font-family: "Courier New", Courier, monospace;
+    font-family: var(--font-body);
+}
+
+body {
+    margin: 0;
+    background-color: var(--bg);
+    color: var(--text);
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    font-family: var(--font-display);
+    font-weight: 700;
+    margin: 0 0 var(--space-4);
+}
+
+h1 {
+    font-size: 64px;
+    line-height: 1.1;
+    letter-spacing: -0.01em;
+}
+
+h2 {
+    font-size: 36px;
+    line-height: 1.2;
+}
+
+h3 {
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 1.3;
+}
+
+p,
+ul,
+ol {
+    margin: 0 0 var(--space-4);
+}
+
+a {
+    color: var(--accent);
+}
+
+a:hover {
+    color: var(--accent-hover);
+}
+
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+textarea:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+figure {
+    margin: 0;
+}
+
+figcaption {
+    color: var(--text-muted);
+    font-size: 14px;
+    margin-top: var(--space-2);
+}
+
+/* Header and nav (same on every page) */
+
+body > header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    gap: var(--space-4);
+    padding: var(--space-4) var(--space-8);
+    border-bottom: 1px solid var(--border);
+    background-color: var(--surface);
+}
+
+.logo,
+body > header > div {
+    font-family: var(--font-display);
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    color: var(--text);
+    text-decoration: none;
+}
+
+nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-6);
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav a {
+    font-family: var(--font-display);
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    color: var(--text-muted);
+    text-decoration: none;
+}
+
+nav a:hover,
+nav a[aria-current="page"] {
+    color: var(--accent);
+}
+
+/* Main content area */
+
+main {
+    max-width: var(--page-width);
+    margin: 0 auto;
+    padding: var(--space-12) var(--space-8);
+}
+
+section {
+    padding: var(--space-12) 0;
+}
+
+/* Small reusable pieces */
+
+.eyebrow {
+    font-family: var(--font-display);
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: var(--space-2);
+}
+
+.lead {
+    font-size: 18px;
+    color: var(--text-muted);
+}
+
+.section-head {
+    max-width: 640px;
+    margin-bottom: var(--space-8);
+}
+
+.section-head p {
+    color: var(--text-muted);
+}
+
+.section-head .eyebrow {
+    color: var(--accent);
+}
+
+.buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-4);
+    margin-top: var(--space-6);
+}
+
+.btn {
+    display: inline-block;
+    padding: var(--space-3) var(--space-6);
+    border: 2px solid var(--accent);
+    border-radius: var(--radius-sm);
+    background-color: var(--accent);
+    color: var(--on-accent);
+    font-family: var(--font-display);
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: var(--accent-hover);
+    border-color: var(--accent-hover);
+    color: var(--on-accent);
+}
+
+.btn-outline {
+    background-color: transparent;
+    color: var(--accent);
+}
+
+.btn-outline:hover {
+    background-color: var(--surface-raised);
+    color: var(--accent-hover);
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-6);
+}
+
+.card {
+    flex: 1 1 250px;
+    padding: var(--space-6);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    background-color: var(--surface);
+}
+
+.card p {
+    color: var(--text-muted);
+}
+
+.card .eyebrow {
+    color: var(--accent);
+}
+
+/* Home page */
+
+.hero {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: var(--space-12);
+}
+
+.hero-text {
+    flex: 1 1 480px;
+}
+
+.hero-image {
+    flex: 1 1 320px;
+}
+
+.pieces {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-4);
+    margin-bottom: var(--space-12);
+}
+
+.pieces figure {
+    flex: 1 1 100px;
+    padding: var(--space-4);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    background-color: var(--surface);
+    text-align: center;
+}
+
+.pieces figcaption {
+    font-family: var(--font-display);
+    font-size: 18px;
+    font-weight: 700;
+    color: var(--text);
+}
+
+/* Tables */
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: var(--surface);
+}
+
+caption {
+    text-align: left;
+    font-family: var(--font-display);
+    font-weight: 600;
+    color: var(--text-muted);
+    padding-bottom: var(--space-3);
+}
+
+th,
+td {
+    padding: var(--space-3) var(--space-4);
+    border-bottom: 1px solid var(--border);
+    text-align: left;
+    vertical-align: top;
+}
+
+thead th {
+    font-family: var(--font-display);
+    font-size: 13px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    background-color: var(--surface-raised);
+}
+
+tbody th {
+    font-family: var(--font-display);
+    color: var(--accent);
+}
+
+/* Coaching form */
+
+.coaching {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-12);
+}
+
+.coaching > div {
+    flex: 1 1 360px;
+}
+
+.coaching ol {
+    color: var(--text-muted);
+    padding-left: var(--space-6);
+}
+
+.form {
+    flex: 1 1 360px;
+    padding: var(--space-8);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    background-color: var(--surface);
+}
+
+.form label,
+.form legend {
+    display: block;
+    font-family: var(--font-display);
+    font-weight: 600;
+    margin-bottom: var(--space-2);
+}
+
+.form input[type="text"],
+.form input[type="email"],
+.form textarea {
+    display: block;
+    width: 100%;
+    padding: var(--space-3);
+    border: 1px solid var(--border-strong);
+    border-radius: var(--radius-sm);
+    background-color: var(--bg);
+    color: var(--text);
+    font-family: var(--font-body);
+    font-size: 16px;
+}
+
+.form input::placeholder,
+.form textarea::placeholder {
+    color: var(--text-muted);
+}
+
+.form fieldset {
+    border: none;
+    margin: 0 0 var(--space-4);
+    padding: 0;
+}
+
+.choices {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: var(--space-2);
+}
+
+.choices label {
+    display: inline;
+    font-family: var(--font-body);
+    font-weight: 400;
+    margin: 0 var(--space-3) 0 0;
+}
+
+.choices input {
+    accent-color: var(--accent);
+}
+
+/* Footer (same on every page) */
+
+footer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-8);
+    padding: var(--space-12) var(--space-8);
+    border-top: 1px solid var(--border);
+    background-color: var(--surface);
+    color: var(--text-muted);
+    font-size: 14px;
+}
+
+footer > div {
+    flex: 1 1 220px;
+}
+
+footer h2,
+footer h4 {
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--text);
+    margin-bottom: var(--space-3);
+}
+
+footer a {
+    display: block;
+    margin-bottom: var(--space-2);
+}
+
+footer > div:first-child > p:first-child {
+    font-family: var(--font-display);
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    color: var(--text);
+    margin-bottom: var(--space-2);
+}
+
+/* Small screens */
+
+@media (max-width: 600px) {
+    body > header {
+        padding: var(--space-4);
+    }
+
+    main {
+        padding: var(--space-8) var(--space-4);
+    }
+
+    section {
+        padding: var(--space-8) 0;
+    }
+
+    h1 {
+        font-size: 40px;
+    }
+
+    h2 {
+        font-size: 28px;
+    }
+
+    nav ul {
+        gap: var(--space-4);
+    }
+
+    .form {
+        padding: var(--space-6);
+    }
+
+    footer {
+        padding: var(--space-8) var(--space-4);
+    }
 }
