@@ -1,3 +1,444 @@
-html {
-    font-family: "Courier New", Courier, monospace;
+@import url("https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;600;700&family=Inter:wght@400;600&display=swap");
+
+/* Colours, fonts and spacing from the Figma file. Use these on every page. */
+:root {
+    --bg: #0b0d12;
+    --surface: #141821;
+    --surface-raised: #1c2230;
+    --border: #2a3142;
+    --border-strong: #46506a;
+    --text: #eef1f6;
+    --text-muted: #a3acbd;
+    --accent: #2fd3f0;
+    --accent-hover: #7be6f8;
+    --on-accent: #06202a;
+
+    --font-display: "Chakra Petch", "Courier New", Courier, monospace;
+    --font-body: "Inter", Arial, sans-serif;
+
+    --space-2: 8px;
+    --space-3: 12px;
+    --space-4: 16px;
+    --space-6: 24px;
+    --space-8: 32px;
+    --space-12: 48px;
+
+    --radius-sm: 4px;
+    --radius-md: 8px;
+    --page-width: 1200px;
+}
+
+/* Base */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: var(--bg);
+    color: var(--text);
+    font-family: var(--font-body);
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+h1,
+h2,
+h3,
+.logo,
+nav a,
+.btn,
+label,
+legend,
+caption,
+th {
+    font-family: var(--font-display);
+}
+
+h1,
+h2,
+h3 {
+    margin: 0 0 var(--space-4);
+    line-height: 1.2;
+}
+
+h1 {
+    font-size: 64px;
+    line-height: 1.1;
+}
+
+h2 {
+    font-size: 36px;
+}
+
+h3 {
+    font-size: 22px;
+    font-weight: 600;
+}
+
+p,
+ol {
+    margin: 0 0 var(--space-4);
+}
+
+a {
+    color: var(--accent);
+}
+
+a:hover {
+    color: var(--accent-hover);
+}
+
+:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+figure {
+    margin: 0;
+}
+
+figcaption {
+    color: var(--text-muted);
+    font-size: 14px;
+    margin-top: var(--space-2);
+}
+
+/* Header and footer (same on every page) */
+
+body > header,
+footer {
+    background-color: var(--surface);
+    border-bottom: 1px solid var(--border);
+}
+
+footer {
+    border-bottom: none;
+    border-top: 1px solid var(--border);
+    color: var(--text-muted);
+    font-size: 14px;
+}
+
+.header-content,
+.footer-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    gap: var(--space-4);
+    max-width: var(--page-width);
+    margin: 0 auto;
+    padding: var(--space-4) var(--space-8);
+}
+
+.footer-content {
+    align-items: flex-start;
+    gap: var(--space-8);
+    padding: var(--space-12) var(--space-8);
+}
+
+.footer-content > div {
+    flex: 1 1 220px;
+}
+
+.logo {
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    color: var(--text);
+    text-decoration: none;
+}
+
+nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-6);
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav a {
+    color: var(--text-muted);
+    text-decoration: none;
+}
+
+nav a:hover,
+nav a[aria-current="page"] {
+    color: var(--accent);
+}
+
+footer h2 {
+    font-size: 13px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--text);
+    margin-bottom: var(--space-3);
+}
+
+footer a {
+    display: block;
+    margin-bottom: var(--space-2);
+}
+
+/* Main content */
+
+main {
+    max-width: var(--page-width);
+    margin: 0 auto;
+    padding: var(--space-12) var(--space-8);
+}
+
+section {
+    padding: var(--space-12) 0;
+}
+
+.lead,
+.section-head p,
+.card p,
+.coaching ol {
+    color: var(--text-muted);
+}
+
+.lead {
+    font-size: 18px;
+}
+
+.section-head {
+    max-width: 640px;
+    margin-bottom: var(--space-8);
+}
+
+/* Buttons */
+
+.buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-4);
+    margin-top: var(--space-6);
+}
+
+.btn {
+    display: inline-block;
+    padding: var(--space-3) var(--space-6);
+    border: 2px solid var(--accent);
+    border-radius: var(--radius-sm);
+    background-color: var(--accent);
+    color: var(--on-accent);
+    font-size: 16px;
+    font-weight: 600;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: var(--accent-hover);
+    border-color: var(--accent-hover);
+    color: var(--on-accent);
+}
+
+.btn-outline {
+    background-color: transparent;
+    color: var(--accent);
+}
+
+.btn-outline:hover {
+    background-color: var(--surface-raised);
+}
+
+/* Layout rows and boxes */
+
+.cards,
+.pieces,
+.hero,
+.split,
+.coaching {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.cards,
+.pieces {
+    gap: var(--space-4);
+}
+
+.hero,
+.split,
+.coaching {
+    align-items: center;
+    gap: var(--space-12);
+}
+
+.hero > div,
+.split > *,
+.coaching > * {
+    flex: 1 1 400px;
+}
+
+.card,
+.pieces figure,
+.form {
+    padding: var(--space-6);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    background-color: var(--surface);
+}
+
+.card {
+    flex: 1 1 250px;
+}
+
+/* Home page */
+
+.hero > .hero-text {
+    flex-grow: 2;
+}
+
+.hero-image img {
+    display: block;
+    margin: 0 auto;
+}
+
+.hero-image figcaption {
+    text-align: center;
+}
+
+.split .section-head {
+    margin-bottom: 0;
+}
+
+.pieces figure {
+    flex: 1 1 64px;
+    padding: var(--space-2);
+    text-align: center;
+}
+
+.pieces img {
+    display: block;
+    width: 100%;
+    height: 48px;
+    object-fit: contain;
+}
+
+.pieces figcaption {
+    font-family: var(--font-display);
+    font-size: 18px;
+    font-weight: 700;
+    color: var(--text);
+}
+
+/* Table */
+
+table {
+    border-collapse: collapse;
+    background-color: var(--surface);
+}
+
+caption {
+    text-align: left;
+    font-weight: 600;
+    color: var(--text-muted);
+    padding-bottom: var(--space-3);
+}
+
+th,
+td {
+    padding: var(--space-3) var(--space-4);
+    border-bottom: 1px solid var(--border);
+    text-align: left;
+    vertical-align: top;
+}
+
+thead th {
+    font-size: 13px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    background-color: var(--surface-raised);
+}
+
+tbody th {
+    color: var(--accent);
+}
+
+/* Form */
+
+.form label,
+.form legend {
+    display: block;
+    font-weight: 600;
+    margin-bottom: var(--space-2);
+}
+
+.form input[type="text"],
+.form input[type="email"],
+.form textarea {
+    display: block;
+    width: 100%;
+    padding: var(--space-3);
+    border: 1px solid var(--border-strong);
+    border-radius: var(--radius-sm);
+    background-color: var(--bg);
+    color: var(--text);
+    font: inherit;
+}
+
+.form ::placeholder {
+    color: var(--text-muted);
+}
+
+.form fieldset {
+    border: none;
+    margin: 0 0 var(--space-4);
+    padding: 0;
+}
+
+.choices {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: var(--space-2);
+}
+
+.choices label {
+    display: inline;
+    font-family: var(--font-body);
+    font-weight: 400;
+    margin: 0 var(--space-3) 0 0;
+}
+
+.choices input {
+    accent-color: var(--accent);
+}
+
+/* Small screens */
+
+@media (max-width: 600px) {
+    .header-content,
+    .footer-content,
+    main {
+        padding: var(--space-6) var(--space-4);
+    }
+
+    section {
+        padding: var(--space-8) 0;
+    }
+
+    h1 {
+        font-size: 40px;
+    }
+
+    h2 {
+        font-size: 28px;
+    }
+
+    nav ul {
+        gap: var(--space-4);
+    }
 }

@@ -1,0 +1,87 @@
+<svg width="54" height="36" viewBox="0 0 54 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="index.html / desktop 1440">
+<g id="main">
+<g id="section.rules">
+<mask id="path-1-inside-1_0_1" fill="white">
+<path d="M-486 -381H954V134H-486V-381Z"/>
+</mask>
+<path d="M-486 -381V-380H954V-381V-382H-486V-381Z" fill="#2A3142" mask="url(#path-1-inside-1_0_1)"/>
+<g id="rules text">
+<g id="ul.pieces">
+<g id="li">
+<g id="img (J piece)" clip-path="url(#clip0_0_1)">
+<g id="row" clip-path="url(#clip1_0_1)">
+<g id="Block">
+<rect width="18" height="18" fill="#6254B8"/>
+<rect x="0.5" y="0.5" width="17" height="17" stroke="black" stroke-opacity="0.14"/>
+<rect id="bevel left" width="1.92857" height="18" fill="white" fill-opacity="0.1"/>
+<rect id="bevel right" x="16.0714" width="1.92857" height="18" fill="black" fill-opacity="0.14"/>
+<rect id="bevel top" width="18" height="1.92857" fill="white" fill-opacity="0.22"/>
+<rect id="bevel bottom" y="16.0714" width="18" height="1.92857" fill="black" fill-opacity="0.24"/>
+<rect id="inset" x="4.5" y="4.5" width="9" height="9" fill="black" fill-opacity="0.12"/>
+<rect id="inset top" x="4.5" y="4.5" width="9" height="1.28571" fill="black" fill-opacity="0.16"/>
+<rect id="inset left" x="4.5" y="4.5" width="1.28571" height="9" fill="black" fill-opacity="0.08"/>
+<rect id="inset bottom" x="4.5" y="12.2142" width="9" height="1.28571" fill="white" fill-opacity="0.16"/>
+<rect id="inset right" x="12.2143" y="4.5" width="1.28571" height="9" fill="white" fill-opacity="0.08"/>
+</g>
+</g>
+<g id="row_2" clip-path="url(#clip2_0_1)">
+<g id="Block_2">
+<rect y="18" width="18" height="18" fill="#6254B8"/>
+<rect x="0.5" y="18.5" width="17" height="17" stroke="black" stroke-opacity="0.14"/>
+<rect id="bevel left_2" y="18" width="1.92857" height="18" fill="white" fill-opacity="0.1"/>
+<rect id="bevel right_2" x="16.0714" y="18" width="1.92857" height="18" fill="black" fill-opacity="0.14"/>
+<rect id="bevel top_2" y="18" width="18" height="1.92857" fill="white" fill-opacity="0.22"/>
+<rect id="bevel bottom_2" y="34.0714" width="18" height="1.92857" fill="black" fill-opacity="0.24"/>
+<rect id="inset_2" x="4.5" y="22.5" width="9" height="9" fill="black" fill-opacity="0.12"/>
+<rect id="inset top_2" x="4.5" y="22.5" width="9" height="1.28571" fill="black" fill-opacity="0.16"/>
+<rect id="inset left_2" x="4.5" y="22.5" width="1.28571" height="9" fill="black" fill-opacity="0.08"/>
+<rect id="inset bottom_2" x="4.5" y="30.2142" width="9" height="1.28571" fill="white" fill-opacity="0.16"/>
+<rect id="inset right_2" x="12.2143" y="22.5" width="1.28571" height="9" fill="white" fill-opacity="0.08"/>
+</g>
+<g id="Block_3">
+<rect x="18" y="18" width="18" height="18" fill="#6254B8"/>
+<rect x="18.5" y="18.5" width="17" height="17" stroke="black" stroke-opacity="0.14"/>
+<rect id="bevel left_3" x="18" y="18" width="1.92857" height="18" fill="white" fill-opacity="0.1"/>
+<rect id="bevel right_3" x="34.0714" y="18" width="1.92857" height="18" fill="black" fill-opacity="0.14"/>
+<rect id="bevel top_3" x="18" y="18" width="18" height="1.92857" fill="white" fill-opacity="0.22"/>
+<rect id="bevel bottom_3" x="18" y="34.0714" width="18" height="1.92857" fill="black" fill-opacity="0.24"/>
+<rect id="inset_3" x="22.5" y="22.5" width="9" height="9" fill="black" fill-opacity="0.12"/>
+<rect id="inset top_3" x="22.5" y="22.5" width="9" height="1.28571" fill="black" fill-opacity="0.16"/>
+<rect id="inset left_3" x="22.5" y="22.5" width="1.28571" height="9" fill="black" fill-opacity="0.08"/>
+<rect id="inset bottom_3" x="22.5" y="30.2142" width="9" height="1.28571" fill="white" fill-opacity="0.16"/>
+<rect id="inset right_3" x="30.2143" y="22.5" width="1.28571" height="9" fill="white" fill-opacity="0.08"/>
+</g>
+<g id="Block_4">
+<rect x="36" y="18" width="18" height="18" fill="#6254B8"/>
+<rect x="36.5" y="18.5" width="17" height="17" stroke="black" stroke-opacity="0.14"/>
+<rect id="bevel left_4" x="36" y="18" width="1.92857" height="18" fill="white" fill-opacity="0.1"/>
+<rect id="bevel right_4" x="52.0714" y="18" width="1.92857" height="18" fill="black" fill-opacity="0.14"/>
+<rect id="bevel top_4" x="36" y="18" width="18" height="1.92857" fill="white" fill-opacity="0.22"/>
+<rect id="bevel bottom_4" x="36" y="34.0714" width="18" height="1.92857" fill="black" fill-opacity="0.24"/>
+<rect id="inset_4" x="40.5" y="22.5" width="9" height="9" fill="black" fill-opacity="0.12"/>
+<rect id="inset top_4" x="40.5" y="22.5" width="9" height="1.28571" fill="black" fill-opacity="0.16"/>
+<rect id="inset left_4" x="40.5" y="22.5" width="1.28571" height="9" fill="black" fill-opacity="0.08"/>
+<rect id="inset bottom_4" x="40.5" y="30.2142" width="9" height="1.28571" fill="white" fill-opacity="0.16"/>
+<rect id="inset right_4" x="48.2143" y="22.5" width="1.28571" height="9" fill="white" fill-opacity="0.08"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="54" height="36" fill="white"/>
+</clipPath>
+<clipPath id="clip1_0_1">
+<rect width="54" height="18" fill="white"/>
+</clipPath>
+<clipPath id="clip2_0_1">
+<rect width="54" height="18" fill="white" transform="translate(0 18)"/>
+</clipPath>
+</defs>
+</svg>

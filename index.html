@@ -3,42 +3,53 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <link rel="stylesheet" href="/style.css" />
-        <title>Document</title>
+        <link rel="stylesheet" href="style.css" />
+
+        <title>DOWNSTACK | Modern Tetris guides</title>
     </head>
     <body>
         <header>
-            <div><span>DOWNSTACK</span></div>
-            <nav>
-                <ul>
-                    <li><a href="">Home</a></li>
-                    <li><a href="">Arstan</a></li>
-                    <li><a href="chris.html">Chris</a></li>
-                    <li><a href="openers.html">Leland</a></li>
-                    <li><a href="jonjon.html">JonJon</a></li>
-                </ul>
-            </nav>
+            <div class="header-content">
+                <a class="logo" href="index.html">DOWNSTACK</a>
+                <nav>
+                    <ul>
+                        <li>
+                            <a href="index.html" aria-current="page">Home</a>
+                        </li>
+                        <li><a href="">Arstan</a></li>
+                        <li><a href="chris.html">Chris</a></li>
+                        <li><a href="openers.html">Leland</a></li>
+                        <li><a href="jonjon.html">JonJon</a></li>
+                    </ul>
+                </nav>
+            </div>
         </header>
         <main>
-            <section>
-                <div>
-                    <p>Modern stacking, explained</p>
+            <section class="hero">
+                <div class="hero-text">
                     <h1>Tetris is deeper than you remember.</h1>
-                    <p>
+                    <p class="lead">
                         You know the falling blocks. This site is about
                         everything that came after: the hold slot, spins,
                         openers and sending lines. Four guides, written by four
                         players, take you from your first clean stack to your
                         first ranked match.
                     </p>
-                    <div>
-                        <a href="">Start with the basics</a>
-                        <a href="">Ask for coaching</a>
+                    <div class="buttons">
+                        <a class="btn" href="">Start with the basics</a>
+                        <a class="btn btn-outline" href="#coaching"
+                            >Ask for coaching</a
+                        >
                     </div>
                 </div>
-                <div>
+                <div class="hero-image">
                     <figure>
-                        <img src="" alt="" />
+                        <img
+                            src="images/board-diagram.svg"
+                            alt="A Tetris board with a T piece falling at the top. The stack fills the left nine columns and the far right column is left empty."
+                            width="288"
+                            height="400"
+                        />
                         <figcaption>
                             Fig. 1: the right column is left open for an I
                             piece.
@@ -47,114 +58,176 @@
                 </div>
             </section>
             <section>
-                <div class="">
-                    <p>The guides</p>
+                <div class="section-head">
                     <h2>Four guides, beginner to expert</h2>
                     <p>
                         Each of us wrote one page. Read them in order, or jump
                         to the level that fits you.
                     </p>
                 </div>
-                <div class="">
-                    <div class="">
-                        <p>01 · Beginner · by Arstan</p>
-                        <p>The basics</p>
+                <div class="cards">
+                    <div class="card">
+                        <p class="eyebrow">01 · Beginner · by Arstan</p>
+                        <h3>The basics</h3>
                         <p>
                             Pieces, the hold slot, the next queue and how lines
                             clear. Start here if you last played years ago.
                         </p>
                         <a href="">Read the guide →</a>
                     </div>
+                    <div class="card">
+                        <p class="eyebrow">02 · Improving · by Chris</p>
+                        <h3>Stacking</h3>
+                        <p>
+                            How to keep the board flat, where to leave your
+                            well, and what to do about holes.
+                        </p>
+                        <a href="">Read the guide →</a>
+                    </div>
+                    <div class="card">
+                        <p class="eyebrow">03 · Advanced · by Leland</p>
+                        <h3>Openers</h3>
+                        <p>
+                            Planned first moves that give you an early lead, and
+                            when they are worth learning.
+                        </p>
+                        <a href="">Read the guide →</a>
+                    </div>
+                    <div class="card">
+                        <p class="eyebrow">04 · Expert · by Jonjon</p>
+                        <h3>Sending lines</h3>
+                        <p>
+                            T-spins, combos and back-to-back: how attacks work
+                            when you play against someone.
+                        </p>
+                        <a href="">Read the guide →</a>
+                    </div>
                 </div>
             </section>
-            <section>
-                <div>
-                    <span>why it is deep</span>
+            <section class="split">
+                <div class="section-head">
                     <h2>What changed since the handheld days</h2>
                     <p>
                         Modern versions share one rule set, and those rules
                         leave a lot of room for skill. These four are the ones
                         that change how you play the most.
                     </p>
-                    <p>The seven pieces</p>
-                    <div>
+                    <h3>The seven pieces</h3>
+                    <div class="pieces">
                         <figure>
-                            <img src="" alt="" />
+                            <img
+                                src="images/piece-i.svg"
+                                alt="I piece: four blocks in a straight line"
+                                width="144"
+                                height="36"
+                            />
                             <figcaption>I</figcaption>
                         </figure>
                         <figure>
-                            <img src="" alt="" />
+                            <img
+                                src="images/piece-o.svg"
+                                alt="O piece: four blocks in a 2 by 2 square"
+                                width="72"
+                                height="72"
+                            />
                             <figcaption>O</figcaption>
                         </figure>
                         <figure>
-                            <img src="" alt="" />
+                            <img
+                                src="images/piece-t.svg"
+                                alt="T piece: three blocks in a row with one on top of the middle"
+                                width="108"
+                                height="72"
+                            />
                             <figcaption>T</figcaption>
                         </figure>
                         <figure>
-                            <img src="" alt="" />
+                            <img
+                                src="images/piece-s.svg"
+                                alt="S piece: two blocks on the bottom left and two on the top right, offset by one"
+                                width="108"
+                                height="72"
+                            />
                             <figcaption>S</figcaption>
                         </figure>
                         <figure>
-                            <img src="" alt="" />
+                            <img
+                                src="images/piece-z.svg"
+                                alt="Z piece: two blocks on the top left and two on the bottom right, offset by one"
+                                width="108"
+                                height="72"
+                            />
                             <figcaption>Z</figcaption>
                         </figure>
                         <figure>
-                            <img src="" alt="" />
+                            <img
+                                src="images/piece-j.svg"
+                                alt="J piece: three blocks in a row with one on top of the left end"
+                                width="108"
+                                height="72"
+                            />
                             <figcaption>J</figcaption>
                         </figure>
                         <figure>
-                            <img src="" alt="" />
+                            <img
+                                src="images/piece-l.svg"
+                                alt="L piece: three blocks in a row with one on top of the right end"
+                                width="108"
+                                height="72"
+                            />
                             <figcaption>L</figcaption>
                         </figure>
                     </div>
                 </div>
                 <table>
+                    <caption>
+                        Four mechanics that changed modern Tetris
+                    </caption>
                     <thead>
                         <tr>
-                            <th>Mechanic</th>
-                            <th>What it does</th>
-                            <th>Guide</th>
+                            <th scope="col">Mechanic</th>
+                            <th scope="col">What it does</th>
+                            <th scope="col">Guide</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
-                            <th>Hold</th>
-                            <th>
+                            <th scope="row">Hold</th>
+                            <td>
                                 Lets you save one piece for later and swap it
                                 back in.
-                            </th>
-                            <th>The basics</th>
+                            </td>
+                            <td>The basics</td>
                         </tr>
                         <tr>
-                            <th>7-bag</th>
-                            <th>
+                            <th scope="row">7-bag</th>
+                            <td>
                                 Pieces arrive in shuffled sets of seven, so long
                                 droughts cannot happen.
-                            </th>
-                            <th>The basics</th>
+                            </td>
+                            <td>The basics</td>
                         </tr>
                         <tr>
-                            <th>Hard drop</th>
-                            <th>
+                            <th scope="row">Hard drop</th>
+                            <td>
                                 Drops a piece instantly, which is how fast
                                 players keep their speed.
-                            </th>
-                            <th>Stacking</th>
+                            </td>
+                            <td>Stacking</td>
                         </tr>
                         <tr>
-                            <th>T-spin</th>
-                            <th>
+                            <th scope="row">T-spin</th>
+                            <td>
                                 Rotating a T piece into a tight gap sends extra
                                 lines.
-                            </th>
-                            <th>Sending lines</th>
+                            </td>
+                            <td>Sending lines</td>
                         </tr>
                     </tbody>
                 </table>
             </section>
-            <section>
+            <section class="coaching" id="coaching">
                 <div>
-                    <p>Coaching</p>
                     <h2>Stuck on something specific?</h2>
                     <p>
                         Tell us where you are and what you want to fix. It is
@@ -175,50 +248,99 @@
                         </li>
                     </ol>
                 </div>
-                <form action="">
+                <form class="form">
                     <p>
-                        <label for="">Name</label>
-                        <input placeholder="Your name" type="text" />
+                        <label for="name">Name</label>
+                        <input
+                            id="name"
+                            name="name"
+                            type="text"
+                            placeholder="Your name"
+                            required
+                        />
                     </p>
                     <p>
-                        <label for="">Email</label>
-                        <input type="email" />
+                        <label for="email">Email</label>
+                        <input
+                            id="email"
+                            name="email"
+                            type="email"
+                            placeholder="you@example.com"
+                            required
+                        />
                     </p>
-                    <p>What do you want help with?</p>
-                    <div>
-                        <input type="radio" /> <label for="">Basics</label>
-                        <input type="radio" /> <label for="">Stacking</label>
-                        <input type="radio" /> <label for="">Openers</label>
-                        <input type="radio" />
-                        <label for="">Sending lines</label>
-                    </div>
-                    <p>Message</p>
-                    <textarea name="" id="">What keeps going wrong?</textarea>
-                    <button>Send request</button>
+                    <fieldset>
+                        <legend>What do you want help with?</legend>
+                        <div class="choices">
+                            <input
+                                type="radio"
+                                id="topic-basics"
+                                name="topic"
+                                value="basics"
+                                checked
+                            />
+                            <label for="topic-basics">Basics</label>
+                            <input
+                                type="radio"
+                                id="topic-stacking"
+                                name="topic"
+                                value="stacking"
+                            />
+                            <label for="topic-stacking">Stacking</label>
+                            <input
+                                type="radio"
+                                id="topic-openers"
+                                name="topic"
+                                value="openers"
+                            />
+                            <label for="topic-openers">Openers</label>
+                            <input
+                                type="radio"
+                                id="topic-sending"
+                                name="topic"
+                                value="sending"
+                            />
+                            <label for="topic-sending">Sending lines</label>
+                        </div>
+                    </fieldset>
+                    <p>
+                        <label for="message">Message</label>
+                        <textarea
+                            id="message"
+                            name="message"
+                            rows="5"
+                            placeholder="What keeps going wrong?"
+                        ></textarea>
+                    </p>
+                    <button class="btn" type="submit">Send request</button>
                 </form>
             </section>
         </main>
         <footer>
-            <div>
-                <p>DOWNSTACK</p>
-                <p>
-                    Built by Chris, Leland, JonJon and Arstan. ACIT 1620, Group
-                    5, BCIT, Fall 2026.
-                </p>
-            </div>
-            <div>
-                <h4>Sources</h4>
-                <a href="">four.lol</a>
-                <a href="">Hard Drop Tetris Wiki</a>
-            </div>
-            <div>
-                <h4>About</h4>
-                <p>
-                    <small
-                        >&copy; A student project. Not affiliated with The
-                        Tetris Company or TETR.IO.
-                    </small>
-                </p>
+            <div class="footer-content">
+                <div>
+                    <p class="logo">DOWNSTACK</p>
+                    <p>
+                        Built by Chris, Leland, JonJon and Arstan. ACIT 1620,
+                        Group 5, BCIT, Fall 2026.
+                    </p>
+                </div>
+                <div>
+                    <h2>Sources</h2>
+                    <a href="https://four.lol">four.lol</a>
+                    <a href="https://harddrop.com/wiki"
+                        >Hard Drop Tetris Wiki</a
+                    >
+                </div>
+                <div>
+                    <h2>About</h2>
+                    <p>
+                        <small
+                            >&copy; A student project. Not affiliated with The
+                            Tetris Company or TETR.IO.
+                        </small>
+                    </p>
+                </div>
             </div>
         </footer>
     </body>
