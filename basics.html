@@ -12,11 +12,11 @@
             <div class="header-content">
                 <a class="logo" href="index.html">DOWNSTACK</a>
                 <nav>
-                    <ul>
+                    <ul class="horizontal-nav">
+                        <li><a href="index.html">Home</a></li>
                         <li>
-                            <a href="index.html" aria-current="page">Home</a>
+                            <a href="basics.html" aria-current="page">Arstan</a>
                         </li>
-                        <li><a href="basics.html">Arstan</a></li>
                         <li><a href="chris.html">Chris</a></li>
                         <li><a href="openers.html">Leland</a></li>
                         <li><a href="jonjon.html">JonJon</a></li>
@@ -24,7 +24,182 @@
                 </nav>
             </div>
         </header>
-        <main></main>
+        <main>
+            <section class="section-head">
+                <p><a href="index.html">Home</a> / <span>The basics</span></p>
+                <h1>The basics</h1>
+                <p>
+                    If you last played on a Game Boy, the core hasn't changed:
+                    pieces fall and full rows clear. What's new is how much
+                    control you get. This page covers the seven pieces, the hold
+                    slot, the next queue and how clearing lines works.
+                </p>
+                <div class="level-wrapper">
+                    <div class="level-gauge">
+                        <div class="level level-one"></div>
+                        <div class="level"></div>
+                        <div class="level"></div>
+                        <div class="level"></div>
+                    </div>
+                    <span>Level 1 of 4</span>
+                </div>
+            </section>
+            <section class="split">
+                <aside>
+                    <h3>On this page</h3>
+                    <nav>
+                        <ul class="vertical-nav">
+                            <li>
+                                <a href="#the-seven-pieces">The seven pieces</a>
+                            </li>
+                            <li>
+                                <a href="#hold">Hold and the next queue</a>
+                            </li>
+
+                            <li>
+                                <a href="#clearing-lines">Clearing lines</a>
+                            </li>
+                        </ul>
+                    </nav>
+                </aside>
+                <article>
+                    <h2 id="the-seven-pieces">The seven pieces</h2>
+                    <p>
+                        Every piece is made of four blocks. Modern games give
+                        each one a fixed colour, and players call them by the
+                        letter they look like: I, O, T, S, Z, J and L.
+                    </p>
+                    <div class="pieces">
+                        <figure>
+                            <img
+                                src="images/piece-i.svg"
+                                alt="I piece: four blocks in a straight line"
+                                width="144"
+                                height="36"
+                            />
+                            <figcaption>I</figcaption>
+                        </figure>
+                        <figure>
+                            <img
+                                src="images/piece-o.svg"
+                                alt="O piece: four blocks in a 2 by 2 square"
+                                width="72"
+                                height="72"
+                            />
+                            <figcaption>O</figcaption>
+                        </figure>
+                        <figure>
+                            <img
+                                src="images/piece-t.svg"
+                                alt="T piece: three blocks in a row with one on top of the middle"
+                                width="108"
+                                height="72"
+                            />
+                            <figcaption>T</figcaption>
+                        </figure>
+                        <figure>
+                            <img
+                                src="images/piece-s.svg"
+                                alt="S piece: two blocks on the bottom left and two on the top right, offset by one"
+                                width="108"
+                                height="72"
+                            />
+                            <figcaption>S</figcaption>
+                        </figure>
+                        <figure>
+                            <img
+                                src="images/piece-z.svg"
+                                alt="Z piece: two blocks on the top left and two on the bottom right, offset by one"
+                                width="108"
+                                height="72"
+                            />
+                            <figcaption>Z</figcaption>
+                        </figure>
+                        <figure>
+                            <img
+                                src="images/piece-j.svg"
+                                alt="J piece: three blocks in a row with one on top of the left end"
+                                width="108"
+                                height="72"
+                            />
+                            <figcaption>J</figcaption>
+                        </figure>
+                        <figure>
+                            <img
+                                src="images/piece-l.svg"
+                                alt="L piece: three blocks in a row with one on top of the right end"
+                                width="108"
+                                height="72"
+                            />
+                            <figcaption>L</figcaption>
+                        </figure>
+                    </div>
+                    <p>
+                        Pieces always appear in the same colour, so after a
+                        while you stop reading shapes and start recognising
+                        colours, which is a lot faster.
+                    </p>
+                    <h2 id="hold">Hold and the next queue</h2>
+                    <p>
+                        Hold puts the current piece aside so you can swap it
+                        back in later. You can only hold once per piece, so you
+                        can't swap back and forth forever.
+                    </p>
+                    <p>
+                        The next queue shows the pieces that are coming. TETR.IO
+                        shows five, which means you can plan a few moves ahead
+                        instead of reacting to each piece as it lands.
+                    </p>
+                    <div class="tip">
+                        <h5>Try this</h5>
+                        <p>
+                            Play a few games where you hold every I piece and
+                            only use it when the board is ready for it. Notice
+                            how often it was the piece you needed.
+                        </p>
+                    </div>
+                    <h2 id="clearing-lines">Clearing lines</h2>
+                    <p>
+                        A row clears when every cell in it is filled. Clearing
+                        one row is a single, two is a double, three is a triple
+                        and four at once is a quad, also called a Tetris.
+                    </p>
+                    <figure>
+                        <img
+                            src="images/board-diagram-basics.svg"
+                            alt="A Tetris board with an I piece falling at the top right. The stack fills the left nine columns and the far right column is left empty."
+                            width="288"
+                            height="400"
+                        />
+                        <figcaption>
+                            Fig. 1: four rows that are full except for the right
+                            column. Dropping the I piece into that gap clears
+                            all four at once.
+                        </figcaption>
+                    </figure>
+                    <ul>
+                        <li>Single: 1 row</li>
+                        <li>Double: 2 rows</li>
+                        <li>Triple: 3 rows</li>
+                        <li>
+                            Quad (Tetris): 4 rows, only possible with an I piece
+                        </li>
+                    </ul>
+                </article>
+            </section>
+            <section class="page-navigation">
+                <a href="index.html" class="page-navigation-button">
+                    <h5>&lt;- Back to</h5>
+                    <h3>All guides</h3>
+                    <p>The home page</p>
+                </a>
+                <a href="chris.html" class="page-navigation-button align-right">
+                    <h5>Next guide -&gt;</h5>
+                    <h3>Stacking</h3>
+                    <p>02 · Improving · by Chris</p>
+                </a>
+            </section>
+        </main>
         <footer>
             <div class="footer-content">
                 <div>
