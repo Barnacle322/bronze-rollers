@@ -1,31 +1,278 @@
 <!doctype html>
 <html lang="en">
     <head>
-        <meta charset="UTF-8" />
+        <meta charset="UTF-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <link rel="stylesheet" href="/style.css" />
-        <title>Openers</title>
+        <link rel="stylesheet" href="style.css" />
+
+        <title>DOWNSTACK | Openers</title>
     </head>
     <body>
         <header>
             <div class="header-content">
                 <a class="logo" href="index.html">DOWNSTACK</a>
                 <nav>
-                    <ul>
+                    <ul class="horizontal-nav">
+                        <li><a href="index.html">Home</a></li>
                         <li>
-                            <a href="index.html" aria-current="page">Home</a>
+                            <a href="basics.html">Arstan</a>
                         </li>
-                        <li><a href="basics.html">Arstan</a></li>
                         <li><a href="chris.html">Chris</a></li>
-                        <li><a href="openers.html">Leland</a></li>
+                        <li><a href="openers.html" aria-current="page">Leland</a></li>
                         <li><a href="jonjon.html">JonJon</a></li>
                     </ul>
                 </nav>
             </div>
         </header>
         <main>
-            <h1>Openers</h1>
-            <p>Text shall be here</p>
+            <section class="section-head">
+                <p><a href="index.html">Home</a> / <span>Openers</span></p>
+                <h1>Openers</h1>
+                <p>
+                    Ever since the release of 1v1 Tetris, players have found optimal piece placements from the opening bag to 
+                    get an upper hand early into the game. This section will cover some of the most powerful and practical openings 
+                    to get ahead of your opponent.
+                </p>
+                <div class="level-wrapper">
+                    <div class="level-gauge">
+                        <div class="level level-one"></div>
+                        <div class="level level-two"></div>
+                        <div class="level level-three"></div>
+                        <div class="level"></div>
+                    </div>
+                    <span>Level 3 of 4</span>
+                </div>
+            </section>
+            <section class="split">
+                <aside>
+                    <h3>On this page</h3>
+                    <nav>
+                        <ul class="vertical-nav">
+                            <li>
+                                <a href="#how-openers-work">How openers work</a>
+                            </li>
+                            <li>
+                                <a href="#choosing-an-opener">Choosing an opener</a>
+                            </li>
+
+                            <li>
+                                <a href="#follow-ups">Follow-ups</a>
+                            </li>
+                            <li>
+                                <a href="#wrapping-up">Wrapping up</a>
+                            </li>
+                        </ul>
+                    </nav>
+                </aside>
+                <article>
+                    <h2 id="how-openers-work">How openers work</h2>
+                    <p>
+                        TETR.IO uses the 7-bag randomizer, meaning the game shuffles all seven pieces, deals them out, and repeats.
+                        Every bag contains each piece once, so the first seven pieces of a game are a known set. Only the order is unknown.
+                    </p>
+                    <p>
+                        A good opener often allows you to get an attack in while your opponent is still trying to stack to their first quad.
+                    </p>
+                    <figure>
+                        <img 
+                            src="images/opener-7-bag.svg"
+                            alt="The current piece highlighted, followed by remaining unique pieces in the queue, and a dashed empty slot to represent a piece that can't be seen from the queue."
+                            width="500"
+                            height="400"
+                        />
+                        <figcaption>
+                            Fig. 1: the current piece outlined in blue and the next five pieces shown, with the last piece being unknown. 
+                            But given a 7-bag randomizer, the remaining piece would be the "J" piece.
+                        </figcaption>
+                    </figure>
+                    <div class="tip">
+                        <h5>Try this</h5>
+                        <p>
+                            At the start of every round, figure out which piece is the unseen seventh before you place anything. 
+                            Being able to understand the bag and queue are essential to knowing which opening to use, and will help when 
+                            your pacing is eventually faster.
+                        </p>
+                    </div>
+                    
+                    <h2 id="choosing-an-opener">Choosing an opener</h2>
+                    <p>
+                        You aren't able to force an opener every round, since the opening bag constantly changes. 
+                        Picking an opener depends on which pieces come early. Two openers, TKI and DT Cannon, cover most bags with 
+                        extra options for awkward bags.
+                    </p>
+                    <p>
+                        Openers often consist of T-spin Singles (TSS), T-spin Doubles (TSD), T-spin Triples (TST), and Perfect Clears (PC). Check out 1
+                        <a href="https://harddrop.com/wiki/T-Spin_Guide">Hard Drop's T-spin guide.</a>
+                    </p>
+                    <table>
+                        <caption>Which opener fits which first bag</caption>
+                        <thead>
+                            <tr>
+                                <th>Early piece</th>
+                                <th>Opener</th>
+                                <th>What it goes for</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th scope="row">I</th>
+                                <td>TKI</td>
+                                <td>A TSD straight from the first bag</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">J or L</th>
+                                <td>DT Cannon</td>
+                                <td>A TSD, then a back-to-back TST</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">J or L</th>
+                                <td>MKO</td>
+                                <td>A perfect clear or TSDs</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">S, Z or T</th>
+                                <td>PCO</td>
+                                <td>A PC opening, with possible extensions afterwards</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">S, Z or T</th>
+                                <td>C-Spin</td>
+                                <td>A TST, then a TSD or TST</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">O, S or Z</th>
+                                <td>Hachispin</td>
+                                <td>A TSS, then a TST, then a PC</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <div class="tip">
+                        <h5>Which one should you learn first?</h5>
+                        <p>
+                        Consider learning TKI and DT Cannon first, as they both offer wide ranges for follow ups and stacking methods afterwards.
+                        </p>
+                    </div>
+                    <p>
+                        For exact piece placements, check out four.lol pages for
+                        <a href="https://four.lol/openers/tki">TKI</a>,
+                        <a href="https://four.lol/methods/dt-cannon">DT Cannon</a>,
+                        <a href="https://four.lol/openers/mko">MKO</a>,
+                        <a href="https://four.lol/perfect-clears/opener">PCO</a>,
+                        <a href="https://four.lol/methods/triple-double#opening-c-spin">C-Spin</a>, and
+                        <a href="https://four.lol/openers/hachispin">Hachispin</a>.
+                    </p>
+
+                    <h2 id="follow-ups">Follow-ups</h2>
+                    <p>
+                    The initial opener usually ends with the first bag, but most of the time the game continues on. Considering follow ups 
+                    after your opening is just as important as mastering an opening you really like.
+                    </p>
+                    <ul>
+                        <li>
+                            <strong>TKI</strong> 
+                            finishes off with a flat board, making it easy to stack for a quad, or a TSD, or LST stacking.
+                        </li>
+                        <li>
+                            <strong>DT Cannon</strong>
+                            is only half built after the first bag, meaning the whole attack finishes after the second bag, leaving the board
+                            with a higher stack.
+                        </li>
+                        <li>
+                            <strong>C-Spin</strong>
+                            leaves a clean board like TKI, after the opening there are a number of follow ups and stacking methods that can scale
+                            in strength as your stacking and vision improves.
+                        </li>
+                        <li>
+                            <strong>MKO</strong>
+                            branches into a <a href="https://harddrop.com/wiki/Perfect_clear#MKO_Stacking">PC</a> or can be followed up with
+                            more TSDs.
+                        </li>
+                        <li>
+                            <strong>PCO</strong>
+                            either finishes with a clear board, or follow up options if a Perfect Clear isn't executed anyway.
+                        </li>
+                    </ul>
+
+                    <h3>Example: TKI into Double TST</h3>
+                    <p>
+                        The Double TST is a TKI follow up for when LST stacking isn't possible with your queue, which is common
+                        when the third bag starts with a Z and a J. It's a risky option but extremely strong.
+                    </p>
+                    <div class="cards">
+                        <figure style="margin-bottom: var(--space-8);">
+                            <img
+                                src="images/opener-dtst-1.svg"
+                                alt="The TKI first bag with the T-spin double placed. The T is outlined, and the two rows it completes are full."
+                                width="248"
+                                height="128"
+                            />
+                            <figcaption>1. TSD placed</figcaption>
+                        </figure>
+                        <figure>
+                            <img
+                                src="images/opener-dtst-2.svg"
+                                alt="The same board after the two full rows clear, leaving a low stack with a gap in the third column."
+                                width="248"
+                                height="128"
+                            />
+                            <figcaption>2. Rows cleared</figcaption>
+                        </figure>
+                        <figure>
+                            <img
+                                src="images/opener-dtst-3.svg"
+                                alt="The same stack with every cell drawn in grey."
+                                width="248"
+                                height="128"
+                            />
+                            <figcaption>3. Stack so far</figcaption>
+                        </figure>
+                    </div>
+                    
+                    <div class="cards">
+                        <figure>
+                            <img
+                                src="images/opener-dtst-4.svg"
+                                alt="A blue J and a red Z stacked in the two left columns, with the grey stack to their right 
+                                and an empty third column."
+                                width="248"
+                                height="200"
+                            />
+                            <figcaption>4. J and Z on the left</figcaption>
+                        </figure>
+                        <figure>
+                            <img
+                                src="images/opener-dtst-5.svg"
+                                alt="The same J and Z on the left, with the grey stack on the right built up to the top of the board and the third column left open."
+                                width="248"
+                                height="200"
+                            />
+                            <figcaption>5. Right side built up</figcaption>
+                        </figure>
+                    </div>
+
+                    <h2 id="wrapping-up">Wrapping up</h2>
+                    <p>
+                        Relying on your opener too heavily will hinder your development as a player, your opening is important but the 
+                        win will almost always come from your midgame and counter-attacks. Focus on learning a couple of openings and 
+                        the continuations afterwards.
+                    </p>
+                    <p>
+                        Once the opener is spent, you're back to stacking and sending lines. See more about sending lines in the next guide.
+                    </p>
+                </article>
+            </section>
+            <section class="page-navigation">
+                <a href="chris.html" class="page-navigation-button">
+                    <h5>&lt;- Previous guide</h5>
+                    <h3>Stacking</h3>
+                    <p>02 · Improving · by Chris</p>
+                </a>
+                <a href="jonjon.html" class="page-navigation-button align-right">
+                    <h5>Next guide -&gt;</h5>
+                    <h3>Sending Lines</h3>
+                    <p>04 · Expert · by JonJon</p>
+                </a>
+            </section>
         </main>
         <footer>
             <div class="footer-content">
