@@ -3,20 +3,21 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <link rel="stylesheet" href="/style.css" />
-        <title>Chris's page</title>
+        <link rel="stylesheet" href="style.css" />
+
+        <title>DOWNSTACK | Improving</title>
     </head>
     <body>
         <header>
             <div class="header-content">
                 <a class="logo" href="index.html">DOWNSTACK</a>
                 <nav>
-                    <ul>
+                    <ul class="horizontal-nav">
+                        <li><a href="index.html">Home</a></li>
                         <li>
-                            <a href="index.html" aria-current="page">Home</a>
+                            <a href="basics.html">Arstan</a>
                         </li>
-                        <li><a href="basics.html">Arstan</a></li>
-                        <li><a href="chris.html">Chris</a></li>
+                        <li><a href="chris.html" aria-current="page">Chris</a></li>
                         <li><a href="openers.html">Leland</a></li>
                         <li><a href="jonjon.html">JonJon</a></li>
                     </ul>
@@ -24,8 +25,94 @@
             </div>
         </header>
         <main>
-            <h1>Improving</h1>
-            <p>This is filler text for what an improving guide will be.</p>
+            <section class="section-head">
+                <p><a href="index.html">Home</a><span> / </span>Basic Stacking Principles</p>
+                <h1>Basic Stacking Principles</h1>
+                <p>
+                    Good stacking isn't just about clearing lines. 
+                    It's about keeping your board manageable 
+                    and leaving yourself options for the pieces still to come. 
+                    Learning to stack cleanly makes everything else easier.
+                </p>
+                <div class="level-wrapper">
+                    <div class="level-gauge">
+                        <div class="level level-one"></div>
+                        <div class="level level-two"></div>
+                        <div class="level"></div>
+                        <div class="level"></div>
+                    </div>
+                    <span>Level 2 of 4</span>
+                </div>
+            </section>
+            <section class="split">
+                <aside>
+                    <h3>On this page</h3>
+                    <nav>
+                        <ul class="vertical-nav">
+                            <li>
+                                <a href="#keep-it-flat">Keep it Flat</a>
+                            </li>
+                            <li>
+                                <a href="#leave-one-well">Leave one well</a>
+                            </li>
+
+                            <li>
+                                <a href="#dealing-with-holes">Dealing with holes</a>
+                            </li>
+                        </ul>
+                    </nav>
+                </aside>
+                <article>
+                    <h2 id="keep-it-flat">Keep it Flat</h2>
+                    <p>
+                        Aim for a balanced surface without tall spikes, deep gaps, or awkward overhangs. 
+                        A completely flat board isn't always ideal; 
+                        small steps give S, Z, J, and L pieces places to fit. 
+                        Before placing a piece, consider what shapes you'll leave behind 
+                        and whether your upcoming pieces can fill them.
+                    </p>
+                    <h2 id="leave-one-well">Leave one well</h2>
+                    <p>
+                        A simple strategy called 9-0 stacking leaves one column open at the edge of the board. 
+                        Build across the other nine columns, then use an I-piece to clear four lines at once. 
+                        Keep the well accessible, but don't sacrifice the rest of your stack just to preserve it. 
+                        If the board becomes too high, prioritize clearing lines safely.
+                    </p>
+                    <h2 id="dealing-with-holes">Dealing with holes</h2>
+                    <p>
+                        A hole is an empty cell trapped beneath another block. 
+                        Holes restrict your placements and usually require clearing the rows above them to recover. 
+                        Check where each piece will land before using hard drop, 
+                        and avoid burying existing holes under more blocks.
+                    </p>
+                    <ul>
+                        <li>Look at the next queue and plan a few pieces ahead.</li>
+                        <li>Use hold to manage awkward pieces, not just to save I-pieces</li>
+                        <li>Prefer placemenets that leave several options for your next move</li>
+                    </ul>
+                    <div class="tip">
+                        <h5>Try this</h5>
+                        <p>
+                            Play a 40-line sprint without worrying about speed. 
+                            Focus on keeping your stack manageable, avoiding covered holes, 
+                            and checking the next queue before each placement. 
+                            Aim to finish with zero holes.
+                        </p>
+                    </div>
+                </article>
+            </section>
+            <section class="page-navigation">
+                <a href="index.html" class="page-navigation-button">
+                    <h5>&lt;- Previous guide</h5>
+                    <h3>The Basics</h3>
+                    <p>01 · Beginner · by Arstan</p>
+                </a>
+                <a href="chris.html" class="page-navigation-button align-right">
+                    <h5>Next guide -&gt;</h5>
+                    <h3>Openers</h3>
+                    <p>03 · Advanced · by Leland</p>
+                </a>
+            </section>
         </main>
         <footer>
             <div class="footer-content">
